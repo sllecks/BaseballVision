@@ -1,0 +1,13 @@
+# Baseball Vision Dataset
+path: /Users/alexstillwell/Documents/_ML/BaseballVision/dataset
+train: train/images
+val: val/images
+
+# Classes
+names:
+  0: Ball
+  1: "Catcher's glove"
+  2: "Batter's bat"
+  3: Homeplate
+
+nc: 4
