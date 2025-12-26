@@ -116,7 +116,8 @@ def train_model(
     epochs: int = 100,
     imgsz: int = 640,
     batch: int = 16,
-    resume: bool = False
+    resume: bool = False,
+    device: str = "mps"  # Use Apple Metal GPU by default
 ):
     """Train YOLOv8 model on the baseball dataset."""
     
@@ -132,12 +133,13 @@ def train_model(
     model = YOLO(model_name)
     
     # Train the model
-    print(f"🏋️ Training for {epochs} epochs...")
+    print(f"🏋️ Training for {epochs} epochs on {device.upper()}...")
     results = model.train(
         data=str(yaml_path),
         epochs=epochs,
         imgsz=imgsz,
         batch=batch,
+        device=device,  # Use MPS (Apple Metal) for faster training
         project=str(BASE_DIR / "runs"),
         name="baseball_detect",
         exist_ok=True,
@@ -216,6 +218,7 @@ if __name__ == "__main__":
     parser.add_argument("--batch", type=int, default=16, help="Batch size")
     parser.add_argument("--imgsz", type=int, default=640, help="Image size")
     parser.add_argument("--resume", action="store_true", help="Resume training")
+    parser.add_argument("--device", type=str, default="mps", help="Device: mps (Apple Metal), cpu, or cuda")
     
     args = parser.parse_args()
     
@@ -233,6 +236,7 @@ if __name__ == "__main__":
             batch=args.batch,
             imgsz=args.imgsz,
             resume=args.resume,
+            device=args.device,
         )
     
     if args.validate:
