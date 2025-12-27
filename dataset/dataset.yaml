@@ -1,5 +1,5 @@
 # Baseball Vision Dataset
-path: /Users/alexstillwell/Documents/_ML/BaseballVision/dataset
+path: dataset
 train: train/images
 val: val/images
 

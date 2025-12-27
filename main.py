@@ -89,8 +89,10 @@ def prepare_dataset():
         copy_pair(img, label, val_images, val_labels)
     
     # Create dataset.yaml
+    # Use relative path from project root (where script is located)
+    dataset_relative_path = str(DATASET_DIR.relative_to(BASE_DIR))
     yaml_content = f"""# Baseball Vision Dataset
-path: {DATASET_DIR.absolute()}
+path: {dataset_relative_path}
 train: train/images
 val: val/images
 
@@ -121,21 +123,26 @@ def train_model(
 ):
     """Train YOLOv8 model on the baseball dataset."""
     
-    yaml_path = DATASET_DIR / "dataset.yaml"
+    # Change to project root directory so relative paths in YAML work correctly
+    original_cwd = os.getcwd()
+    os.chdir(BASE_DIR)
     
-    if not yaml_path.exists():
-        print("❌ Dataset not prepared. Run prepare_dataset() first.")
-        return None
-    
-    # Load pretrained YOLOv8 model
-    model_name = f"yolov8{model_size}.pt"
-    print(f"🚀 Loading YOLOv8{model_size.upper()} model...")
-    model = YOLO(model_name)
-    
-    # Train the model
-    print(f"🏋️ Training for {epochs} epochs on {device.upper()}...")
-    results = model.train(
-        data=str(yaml_path),
+    try:
+        yaml_path = DATASET_DIR / "dataset.yaml"
+        
+        if not yaml_path.exists():
+            print("❌ Dataset not prepared. Run prepare_dataset() first.")
+            return None
+        
+        # Load pretrained YOLOv8 model
+        model_name = f"yolov8{model_size}.pt"
+        print(f"🚀 Loading YOLOv8{model_size.upper()} model...")
+        model = YOLO(model_name)
+        
+        # Train the model
+        print(f"🏋️ Training for {epochs} epochs on {device.upper()}...")
+        results = model.train(
+            data=str(yaml_path),
         epochs=epochs,
         imgsz=imgsz,
         batch=batch,
@@ -155,16 +162,19 @@ def train_model(
         mosaic=1.0,
         mixup=0.1,
         # Performance
-        patience=20,
-        save=True,
-        plots=True,
-        verbose=True,
-    )
-    
-    print("✅ Training complete!")
-    print(f"📁 Results saved to: {BASE_DIR / 'runs' / 'baseball_detect'}")
-    
-    return results
+            patience=20,
+            save=True,
+            plots=True,
+            verbose=True,
+        )
+        
+        print("✅ Training complete!")
+        print(f"📁 Results saved to: {BASE_DIR / 'runs' / 'baseball_detect'}")
+        
+        return results
+    finally:
+        # Restore original working directory
+        os.chdir(original_cwd)
 
 
 def validate_model(weights_path: str = None):
