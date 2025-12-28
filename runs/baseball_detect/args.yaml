@@ -1,18 +1,18 @@
 task: detect
 mode: train
 model: yolov8n.pt
-data: /Users/alexstillwell/Documents/_ML/BaseballVision/dataset/dataset.yaml
+data: dataset/dataset.yaml
 epochs: 100
 time: null
 patience: 20
-batch: 16
+batch: 8
 imgsz: 640
 save: true
 save_period: -1
 cache: false
 device: mps
 workers: 8
-project: /Users/alexstillwell/Documents/_ML/BaseballVision/runs
+project: runs
 name: baseball_detect
 exist_ok: true
 pretrained: true
@@ -94,7 +94,7 @@ perspective: 0.0
 flipud: 0.0
 fliplr: 0.5
 bgr: 0.0
-mosaic: 1.0
+mosaic: 0.5
 mixup: 0.1
 cutmix: 0.0
 copy_paste: 0.0
@@ -103,4 +103,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: /Users/alexstillwell/Documents/_ML/BaseballVision/runs/baseball_detect
+save_dir: /Users/alexstillwell/Documents/_Projects/StorefrontAI/BaseballVision/runs/baseball_detect
