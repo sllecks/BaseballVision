@@ -1,0 +1,39 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: George_Springers_RBI_single_744925
+Total Angles Discovered: 4
+Total Segments: 10
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 2
+  Total Duration: 2.59s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+    - angle_3/segment_002.mp4 (1.84s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 2.59s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.58s)
+    - angle_9/segment_002.mp4 (2.00s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 0.92s
+  Segment Files:
+    - angle_10/segment_001.mp4 (0.92s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 8.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.17s)
+    - angle_17/segment_002.mp4 (0.58s)
+    - angle_17/segment_003.mp4 (2.50s)
+    - angle_17/segment_004.mp4 (2.84s)
+    - angle_17/segment_005.mp4 (1.67s)

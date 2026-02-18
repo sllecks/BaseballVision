@@ -1,0 +1,63 @@
+{
+  "video_name": "Brendan_Donovans_sliding_catch_746866",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 11.344666666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.25125,
+          "duration": 1.25125,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 1.9185833333333333,
+          "end_time": 4.337666666666666,
+          "duration": 2.419083333333333,
+          "n_frames": 30
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 9.426083333333333,
+          "end_time": 12.178833333333333,
+          "duration": 2.7527500000000007,
+          "n_frames": 34
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 13.179833333333333,
+          "end_time": 18.101416666666665,
+          "duration": 4.9215833333333325,
+          "n_frames": 60
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 4.170833333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.005,
+          "end_time": 8.5085,
+          "duration": 3.5035,
+          "n_frames": 43
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 12.429083333333333,
+          "end_time": 13.096416666666666,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        }
+      ]
+    }
+  }
+}

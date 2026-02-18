@@ -1,0 +1,17 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Field_View_Jose_Siris_go-ahead_homer_747109
+Total Angles Discovered: 1
+Total Segments: 3
+
+Angle Details:
+--------------------------------------------------
+
+Angle 17:
+  Segments: 3
+  Total Duration: 27.03s
+  Segment Files:
+    - angle_17/segment_001.mp4 (10.34s)
+    - angle_17/segment_002.mp4 (5.76s)
+    - angle_17/segment_003.mp4 (10.93s)

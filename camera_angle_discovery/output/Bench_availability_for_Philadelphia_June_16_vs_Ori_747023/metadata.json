@@ -1,0 +1,21 @@
+{
+  "video_name": "Bench_availability_for_Philadelphia_June_16_vs_Ori_747023",
+  "n_angles": 1,
+  "total_segments": 1,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 7.9,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 7.9,
+          "duration": 7.9,
+          "n_frames": 80
+        }
+      ]
+    }
+  }
+}

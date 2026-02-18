@@ -1,0 +1,98 @@
+{
+  "video_name": "Nick_Fortes_nabs_Trey_Lipscomb_stealing_after_revi_744839",
+  "n_angles": 3,
+  "total_segments": 10,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.8351666666666666,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.8351666666666666,
+          "duration": 1.8351666666666666,
+          "n_frames": 23
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 9.009,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 9.25925,
+          "duration": 7.257249999999999,
+          "n_frames": 88
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 27.77775,
+          "end_time": 29.529500000000002,
+          "duration": 1.7517500000000013,
+          "n_frames": 22
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 7,
+      "total_duration": 28.77874999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 9.342666666666666,
+          "end_time": 19.853166666666667,
+          "duration": 10.5105,
+          "n_frames": 127
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 20.103416666666668,
+          "end_time": 20.603916666666667,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 20.937583333333333,
+          "end_time": 21.855166666666666,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 22.105416666666667,
+          "end_time": 26.026,
+          "duration": 3.920583333333333,
+          "n_frames": 48
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 26.27625,
+          "end_time": 27.110416666666666,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 29.612916666666667,
+          "end_time": 33.45008333333333,
+          "duration": 3.837166666666665,
+          "n_frames": 47
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 33.61691666666667,
+          "end_time": 41.875166666666665,
+          "duration": 8.258249999999997,
+          "n_frames": 100
+        }
+      ]
+    }
+  }
+}

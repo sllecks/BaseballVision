@@ -1,0 +1,84 @@
+{
+  "video_name": "Isiah_Kiner-Falefas_RBI_single_744925",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 16.516499999999997,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.5839166666666666,
+          "duration": 0.5839166666666666,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 1.7517500000000001,
+          "end_time": 4.337666666666666,
+          "duration": 2.585916666666666,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.171833333333334,
+          "end_time": 10.093416666666666,
+          "duration": 4.9215833333333325,
+          "n_frames": 60
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 10.343666666666667,
+          "end_time": 11.761750000000001,
+          "duration": 1.4180833333333336,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 12.012,
+          "end_time": 15.015,
+          "duration": 3.003,
+          "n_frames": 37
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 17.851166666666668,
+          "end_time": 21.855166666666666,
+          "duration": 4.003999999999998,
+          "n_frames": 49
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 15.098416666666667,
+          "end_time": 15.849166666666667,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 1.5015,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 16.26625,
+          "end_time": 17.76775,
+          "duration": 1.5015,
+          "n_frames": 19
+        }
+      ]
+    }
+  }
+}

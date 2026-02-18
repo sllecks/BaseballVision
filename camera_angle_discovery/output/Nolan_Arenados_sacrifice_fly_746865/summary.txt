@@ -1,0 +1,32 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Nolan_Arenados_sacrifice_fly_746865
+Total Angles Discovered: 3
+Total Segments: 8
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 6.92s
+  Segment Files:
+    - angle_3/segment_001.mp4 (4.42s)
+    - angle_3/segment_002.mp4 (1.58s)
+    - angle_3/segment_003.mp4 (0.92s)
+
+Angle 9:
+  Segments: 3
+  Total Duration: 4.67s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.75s)
+    - angle_9/segment_002.mp4 (0.50s)
+    - angle_9/segment_003.mp4 (2.42s)
+
+Angle 17:
+  Segments: 2
+  Total Duration: 5.34s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.50s)
+    - angle_17/segment_002.mp4 (3.84s)

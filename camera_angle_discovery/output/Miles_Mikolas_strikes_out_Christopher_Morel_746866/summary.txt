@@ -1,0 +1,21 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Miles_Mikolas_strikes_out_Christopher_Morel_746866
+Total Angles Discovered: 2
+Total Segments: 2
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.08s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 3.67s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.67s)

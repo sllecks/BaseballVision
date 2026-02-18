@@ -1,0 +1,644 @@
+{
+  "video_name": "Colton_Cowser_Jordan_Westburg_on_their_big_home_ru_747023",
+  "n_angles": 4,
+  "total_segments": 87,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 48,
+      "total_duration": 104.85475000000001,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 16.683333333333334,
+          "duration": 16.683333333333334,
+          "n_frames": 201
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 17.183833333333332,
+          "end_time": 17.934583333333332,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 22.188833333333335,
+          "end_time": 22.856166666666667,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 31.5315,
+          "end_time": 34.5345,
+          "duration": 3.003,
+          "n_frames": 37
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 34.78475,
+          "end_time": 36.20283333333333,
+          "duration": 1.4180833333333283,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 48.79875,
+          "end_time": 49.5495,
+          "duration": 0.7507500000000036,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 49.88316666666667,
+          "end_time": 50.467083333333335,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 54.13741666666667,
+          "end_time": 54.971583333333335,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 55.47208333333334,
+          "end_time": 60.977583333333335,
+          "duration": 5.505499999999998,
+          "n_frames": 67
+        },
+        {
+          "filename": "angle_17/segment_010.mp4",
+          "start_time": 64.39766666666667,
+          "end_time": 67.98458333333333,
+          "duration": 3.586916666666667,
+          "n_frames": 44
+        },
+        {
+          "filename": "angle_17/segment_011.mp4",
+          "start_time": 68.65191666666666,
+          "end_time": 69.5695,
+          "duration": 0.9175833333333401,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_012.mp4",
+          "start_time": 70.5705,
+          "end_time": 71.32125,
+          "duration": 0.7507500000000107,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_013.mp4",
+          "start_time": 72.65591666666667,
+          "end_time": 75.32525,
+          "duration": 2.669333333333327,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_014.mp4",
+          "start_time": 76.07600000000001,
+          "end_time": 82.08200000000001,
+          "duration": 6.006,
+          "n_frames": 73
+        },
+        {
+          "filename": "angle_17/segment_015.mp4",
+          "start_time": 86.5865,
+          "end_time": 87.33725,
+          "duration": 0.7507499999999965,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_016.mp4",
+          "start_time": 94.26083333333334,
+          "end_time": 97.09700000000001,
+          "duration": 2.8361666666666707,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_017.mp4",
+          "start_time": 97.93116666666667,
+          "end_time": 98.84875,
+          "duration": 0.9175833333333259,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_018.mp4",
+          "start_time": 100.6005,
+          "end_time": 101.26783333333333,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_019.mp4",
+          "start_time": 105.6055,
+          "end_time": 106.27283333333334,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_020.mp4",
+          "start_time": 108.108,
+          "end_time": 108.94216666666667,
+          "duration": 0.8341666666666612,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_021.mp4",
+          "start_time": 109.35925,
+          "end_time": 109.85975,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_022.mp4",
+          "start_time": 110.77733333333333,
+          "end_time": 111.27783333333333,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_023.mp4",
+          "start_time": 113.44666666666667,
+          "end_time": 114.19741666666667,
+          "duration": 0.7507499999999965,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_024.mp4",
+          "start_time": 114.44766666666666,
+          "end_time": 115.36525,
+          "duration": 0.9175833333333401,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_025.mp4",
+          "start_time": 116.78333333333333,
+          "end_time": 117.78433333333334,
+          "duration": 1.0010000000000048,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_17/segment_026.mp4",
+          "start_time": 118.28483333333334,
+          "end_time": 119.86975,
+          "duration": 1.5849166666666576,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_027.mp4",
+          "start_time": 121.37125,
+          "end_time": 123.95716666666667,
+          "duration": 2.5859166666666624,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_17/segment_028.mp4",
+          "start_time": 124.29083333333334,
+          "end_time": 126.37625,
+          "duration": 2.08541666666666,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_029.mp4",
+          "start_time": 126.70991666666667,
+          "end_time": 128.04458333333335,
+          "duration": 1.3346666666666778,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_17/segment_030.mp4",
+          "start_time": 130.38025,
+          "end_time": 132.21541666666667,
+          "duration": 1.8351666666666802,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_031.mp4",
+          "start_time": 132.79933333333332,
+          "end_time": 136.05258333333333,
+          "duration": 3.2532500000000084,
+          "n_frames": 40
+        },
+        {
+          "filename": "angle_17/segment_032.mp4",
+          "start_time": 136.30283333333333,
+          "end_time": 137.38725,
+          "duration": 1.0844166666666695,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_033.mp4",
+          "start_time": 138.38825,
+          "end_time": 140.05658333333332,
+          "duration": 1.6683333333333223,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_034.mp4",
+          "start_time": 140.30683333333334,
+          "end_time": 142.142,
+          "duration": 1.8351666666666517,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_035.mp4",
+          "start_time": 142.72591666666668,
+          "end_time": 146.47966666666667,
+          "duration": 3.7537499999999966,
+          "n_frames": 46
+        },
+        {
+          "filename": "angle_17/segment_036.mp4",
+          "start_time": 148.23141666666666,
+          "end_time": 149.98316666666668,
+          "duration": 1.7517500000000155,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_037.mp4",
+          "start_time": 150.81733333333332,
+          "end_time": 152.06858333333332,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_038.mp4",
+          "start_time": 152.31883333333334,
+          "end_time": 154.154,
+          "duration": 1.8351666666666517,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_039.mp4",
+          "start_time": 154.6545,
+          "end_time": 156.32283333333334,
+          "duration": 1.6683333333333223,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_040.mp4",
+          "start_time": 156.73991666666666,
+          "end_time": 158.57508333333334,
+          "duration": 1.8351666666666802,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_041.mp4",
+          "start_time": 159.07558333333333,
+          "end_time": 159.90975,
+          "duration": 0.8341666666666754,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_042.mp4",
+          "start_time": 160.99416666666667,
+          "end_time": 164.49766666666667,
+          "duration": 3.5035000000000025,
+          "n_frames": 43
+        },
+        {
+          "filename": "angle_17/segment_043.mp4",
+          "start_time": 164.83133333333333,
+          "end_time": 169.33583333333334,
+          "duration": 4.504500000000007,
+          "n_frames": 55
+        },
+        {
+          "filename": "angle_17/segment_044.mp4",
+          "start_time": 169.91975,
+          "end_time": 171.83833333333334,
+          "duration": 1.9185833333333449,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_17/segment_045.mp4",
+          "start_time": 172.58908333333335,
+          "end_time": 173.33983333333333,
+          "duration": 0.7507499999999823,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_046.mp4",
+          "start_time": 173.59008333333333,
+          "end_time": 174.50766666666667,
+          "duration": 0.9175833333333401,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_047.mp4",
+          "start_time": 176.17600000000002,
+          "end_time": 182.18200000000002,
+          "duration": 6.006,
+          "n_frames": 73
+        },
+        {
+          "filename": "angle_17/segment_048.mp4",
+          "start_time": 182.6825,
+          "end_time": 185.26841666666667,
+          "duration": 2.5859166666666624,
+          "n_frames": 32
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 34,
+      "total_duration": 33.11641666666665,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 19.26925,
+          "end_time": 19.769750000000002,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 20.687333333333335,
+          "end_time": 21.354666666666667,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 22.939583333333335,
+          "end_time": 23.440083333333334,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 25.025000000000002,
+          "end_time": 26.026,
+          "duration": 1.0009999999999977,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 27.193833333333334,
+          "end_time": 28.695333333333334,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 36.28625,
+          "end_time": 36.87016666666667,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_007.mp4",
+          "start_time": 38.28825,
+          "end_time": 39.20583333333333,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_008.mp4",
+          "start_time": 39.45608333333333,
+          "end_time": 40.206833333333336,
+          "duration": 0.7507500000000036,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_009.mp4",
+          "start_time": 44.37766666666667,
+          "end_time": 45.29525,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_010.mp4",
+          "start_time": 48.048,
+          "end_time": 48.715333333333334,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_011.mp4",
+          "start_time": 50.5505,
+          "end_time": 53.13641666666667,
+          "duration": 2.5859166666666695,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_3/segment_012.mp4",
+          "start_time": 61.5615,
+          "end_time": 63.14641666666667,
+          "duration": 1.5849166666666648,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_3/segment_013.mp4",
+          "start_time": 63.64691666666667,
+          "end_time": 64.31425,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_014.mp4",
+          "start_time": 68.068,
+          "end_time": 68.5685,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_015.mp4",
+          "start_time": 69.65291666666667,
+          "end_time": 70.48708333333333,
+          "duration": 0.8341666666666612,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_016.mp4",
+          "start_time": 75.40866666666666,
+          "end_time": 75.99258333333333,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_017.mp4",
+          "start_time": 82.16541666666667,
+          "end_time": 84.41766666666666,
+          "duration": 2.2522499999999894,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_3/segment_018.mp4",
+          "start_time": 84.75133333333333,
+          "end_time": 85.50208333333333,
+          "duration": 0.7507499999999965,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_019.mp4",
+          "start_time": 86.00258333333333,
+          "end_time": 86.50308333333334,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_020.mp4",
+          "start_time": 87.42066666666666,
+          "end_time": 88.42166666666667,
+          "duration": 1.0010000000000048,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_021.mp4",
+          "start_time": 89.25583333333333,
+          "end_time": 90.92416666666666,
+          "duration": 1.6683333333333366,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_3/segment_022.mp4",
+          "start_time": 91.25783333333334,
+          "end_time": 93.17641666666667,
+          "duration": 1.9185833333333306,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_3/segment_023.mp4",
+          "start_time": 97.18041666666667,
+          "end_time": 97.84775,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_024.mp4",
+          "start_time": 98.93216666666667,
+          "end_time": 99.5995,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_025.mp4",
+          "start_time": 100.01658333333333,
+          "end_time": 100.51708333333333,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_026.mp4",
+          "start_time": 103.6035,
+          "end_time": 105.52208333333334,
+          "duration": 1.9185833333333449,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_3/segment_027.mp4",
+          "start_time": 106.35625,
+          "end_time": 107.35725000000001,
+          "duration": 1.0010000000000048,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_028.mp4",
+          "start_time": 112.02858333333333,
+          "end_time": 112.69591666666666,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_029.mp4",
+          "start_time": 119.95316666666668,
+          "end_time": 120.87075,
+          "duration": 0.9175833333333259,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_030.mp4",
+          "start_time": 128.6285,
+          "end_time": 129.96316666666667,
+          "duration": 1.3346666666666636,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_3/segment_031.mp4",
+          "start_time": 137.80433333333335,
+          "end_time": 138.30483333333333,
+          "duration": 0.5004999999999882,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_032.mp4",
+          "start_time": 147.147,
+          "end_time": 147.6475,
+          "duration": 0.5005000000000166,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_033.mp4",
+          "start_time": 150.06658333333334,
+          "end_time": 150.73391666666666,
+          "duration": 0.6673333333333176,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_034.mp4",
+          "start_time": 159.99316666666667,
+          "end_time": 160.91075,
+          "duration": 0.9175833333333401,
+          "n_frames": 12
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 4,
+      "total_duration": 3.0030000000000108,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 28.778750000000002,
+          "end_time": 29.529500000000002,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 43.29325,
+          "end_time": 44.29425,
+          "duration": 1.0009999999999977,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_9/segment_003.mp4",
+          "start_time": 45.37866666666667,
+          "end_time": 45.962583333333335,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_9/segment_004.mp4",
+          "start_time": 174.59108333333333,
+          "end_time": 175.25841666666668,
+          "duration": 0.667333333333346,
+          "n_frames": 9
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 0.9175833333333401,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 115.44866666666667,
+          "end_time": 116.36625000000001,
+          "duration": 0.9175833333333401,
+          "n_frames": 12
+        }
+      ]
+    }
+  }
+}

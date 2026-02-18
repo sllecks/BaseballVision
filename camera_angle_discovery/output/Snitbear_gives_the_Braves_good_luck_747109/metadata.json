@@ -1,0 +1,196 @@
+{
+  "video_name": "Snitbear_gives_the_Braves_good_luck_747109",
+  "n_angles": 6,
+  "total_segments": 21,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 12,
+      "total_duration": 40.29025,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 19.26925,
+          "duration": 19.26925,
+          "n_frames": 232
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 19.5195,
+          "end_time": 20.353666666666665,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 20.687333333333335,
+          "end_time": 22.772750000000002,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 23.690333333333335,
+          "end_time": 25.775750000000002,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 26.693333333333335,
+          "end_time": 27.944583333333334,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 36.36966666666667,
+          "end_time": 37.203833333333336,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 43.29325,
+          "end_time": 50.216833333333334,
+          "duration": 6.923583333333333,
+          "n_frames": 84
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 51.968583333333335,
+          "end_time": 54.054,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 54.30425,
+          "end_time": 56.056000000000004,
+          "duration": 1.7517500000000013,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_010.mp4",
+          "start_time": 56.38966666666667,
+          "end_time": 58.224833333333336,
+          "duration": 1.835166666666666,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_011.mp4",
+          "start_time": 58.5585,
+          "end_time": 59.059000000000005,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_012.mp4",
+          "start_time": 61.81175,
+          "end_time": 62.645916666666665,
+          "duration": 0.8341666666666612,
+          "n_frames": 11
+        }
+      ]
+    },
+    "14": {
+      "angle_id": 14,
+      "n_segments": 2,
+      "total_duration": 1.1678333333333342,
+      "segments": [
+        {
+          "filename": "angle_14/segment_001.mp4",
+          "start_time": 23.023,
+          "end_time": 23.606916666666667,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_14/segment_002.mp4",
+          "start_time": 51.30125,
+          "end_time": 51.88516666666667,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "18": {
+      "angle_id": 18,
+      "n_segments": 1,
+      "total_duration": 2.085416666666667,
+      "segments": [
+        {
+          "filename": "angle_18/segment_001.mp4",
+          "start_time": 29.029,
+          "end_time": 31.114416666666667,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 2.0020000000000024,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 32.61591666666667,
+          "end_time": 33.533500000000004,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 33.78375,
+          "end_time": 34.86816666666667,
+          "duration": 1.0844166666666695,
+          "n_frames": 14
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 1.0010000000000048,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 35.28525,
+          "end_time": 36.28625,
+          "duration": 1.0010000000000048,
+          "n_frames": 13
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 8.174833333333325,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 37.28725,
+          "end_time": 43.126416666666664,
+          "duration": 5.839166666666664,
+          "n_frames": 71
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 59.14241666666667,
+          "end_time": 60.39366666666667,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 60.64391666666667,
+          "end_time": 61.72833333333333,
+          "duration": 1.0844166666666624,
+          "n_frames": 14
+        }
+      ]
+    }
+  }
+}

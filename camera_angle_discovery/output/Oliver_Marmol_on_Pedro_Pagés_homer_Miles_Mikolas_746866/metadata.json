@@ -1,0 +1,154 @@
+{
+  "video_name": "Oliver_Marmol_on_Pedro_Pag\u00e9s_homer_Miles_Mikolas_746866",
+  "n_angles": 5,
+  "total_segments": 16,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 9,
+      "total_duration": 57.55749999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0854166666666667,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 2.3356666666666666,
+          "end_time": 9.092416666666667,
+          "duration": 6.75675,
+          "n_frames": 82
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 11.011000000000001,
+          "end_time": 14.180833333333334,
+          "duration": 3.169833333333333,
+          "n_frames": 39
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 16.433083333333332,
+          "end_time": 18.935583333333334,
+          "duration": 2.5025000000000013,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 20.186833333333333,
+          "end_time": 27.360666666666667,
+          "duration": 7.173833333333334,
+          "n_frames": 87
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 28.778750000000002,
+          "end_time": 29.863166666666668,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 30.447083333333335,
+          "end_time": 34.200833333333335,
+          "duration": 3.75375,
+          "n_frames": 46
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 36.87016666666667,
+          "end_time": 60.14341666666667,
+          "duration": 23.273249999999997,
+          "n_frames": 280
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 61.47808333333334,
+          "end_time": 69.23583333333333,
+          "duration": 7.757749999999994,
+          "n_frames": 94
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 2.3356666666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 10.927583333333333,
+          "duration": 1.7517499999999995,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 36.20283333333333,
+          "end_time": 36.78675,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 1.8351666666666677,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 14.26425,
+          "end_time": 14.931583333333334,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 60.22683333333333,
+          "end_time": 61.394666666666666,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 1.167833333333336,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 15.181833333333334,
+          "end_time": 15.849166666666667,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 27.5275,
+          "end_time": 28.028000000000002,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 1.084416666666666,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 19.019000000000002,
+          "end_time": 20.103416666666668,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        }
+      ]
+    }
+  }
+}

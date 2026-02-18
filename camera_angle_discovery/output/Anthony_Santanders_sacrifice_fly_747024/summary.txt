@@ -1,0 +1,33 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Anthony_Santanders_sacrifice_fly_747024
+Total Angles Discovered: 3
+Total Segments: 9
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 5.26s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+    - angle_3/segment_002.mp4 (0.67s)
+    - angle_3/segment_003.mp4 (3.84s)
+
+Angle 16:
+  Segments: 2
+  Total Duration: 4.67s
+  Segment Files:
+    - angle_16/segment_001.mp4 (1.58s)
+    - angle_16/segment_002.mp4 (3.09s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 8.51s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.25s)
+    - angle_17/segment_002.mp4 (1.92s)
+    - angle_17/segment_003.mp4 (2.25s)
+    - angle_17/segment_004.mp4 (2.09s)

@@ -1,0 +1,112 @@
+{
+  "video_name": "Corbin_Burnes_outing_against_the_Phillies_747023",
+  "n_angles": 4,
+  "total_segments": 11,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 6,
+      "total_duration": 12.5,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5,
+          "duration": 1.5,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 7.8,
+          "end_time": 14.4,
+          "duration": 6.6000000000000005,
+          "n_frames": 67
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 14.9,
+          "end_time": 15.7,
+          "duration": 0.7999999999999989,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 16.4,
+          "end_time": 18.8,
+          "duration": 2.400000000000002,
+          "n_frames": 25
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 19.9,
+          "end_time": 20.4,
+          "duration": 0.5,
+          "n_frames": 6
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 22.8,
+          "end_time": 23.5,
+          "duration": 0.6999999999999993,
+          "n_frames": 8
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 2.0,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 2.2,
+          "end_time": 4.2,
+          "duration": 2.0,
+          "n_frames": 21
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.2999999999999998,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 6.4,
+          "end_time": 7.7,
+          "duration": 1.2999999999999998,
+          "n_frames": 14
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 3,
+      "total_duration": 4.299999999999997,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 15.8,
+          "end_time": 16.3,
+          "duration": 0.5,
+          "n_frames": 6
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 20.6,
+          "end_time": 22.7,
+          "duration": 2.099999999999998,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_9/segment_003.mp4",
+          "start_time": 23.6,
+          "end_time": 25.3,
+          "duration": 1.6999999999999993,
+          "n_frames": 18
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video_name": "Jazz_Chisholm_Jrs_incredible_diving_grab_744839",
+  "n_angles": 3,
+  "total_segments": 3,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.0844166666666666,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.0844166666666666,
+          "duration": 1.0844166666666666,
+          "n_frames": 14
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 3.169833333333333,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 4.0040000000000004,
+          "end_time": 7.1738333333333335,
+          "duration": 3.169833333333333,
+          "n_frames": 39
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 21.688333333333336,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.25725,
+          "end_time": 28.945583333333335,
+          "duration": 21.688333333333336,
+          "n_frames": 261
+        }
+      ]
+    }
+  }
+}

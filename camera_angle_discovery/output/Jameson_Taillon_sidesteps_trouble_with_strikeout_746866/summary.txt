@@ -1,0 +1,23 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Jameson_Taillon_sidesteps_trouble_with_strikeout_746866
+Total Angles Discovered: 2
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.67s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.75s)
+    - angle_2/segment_002.mp4 (0.92s)
+
+Angle 17:
+  Segments: 2
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.09s)
+    - angle_17/segment_002.mp4 (0.83s)

@@ -1,0 +1,126 @@
+{
+  "video_name": "Rob_Thomson_on_being_ejected_against_the_Orioles_747023",
+  "n_angles": 3,
+  "total_segments": 14,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 7,
+      "total_duration": 47.464083333333335,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.5869166666666668,
+          "duration": 3.5869166666666668,
+          "n_frames": 44
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.8371666666666666,
+          "end_time": 10.343666666666667,
+          "duration": 6.506500000000001,
+          "n_frames": 79
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 15.932583333333334,
+          "end_time": 17.017,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 18.018,
+          "end_time": 35.452083333333334,
+          "duration": 17.434083333333334,
+          "n_frames": 210
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 38.5385,
+          "end_time": 39.28925,
+          "duration": 0.7507500000000036,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 40.623916666666666,
+          "end_time": 45.37866666666667,
+          "duration": 4.754750000000001,
+          "n_frames": 58
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 47.464083333333335,
+          "end_time": 60.81075,
+          "duration": 13.346666666666664,
+          "n_frames": 161
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 4,
+      "total_duration": 3.753750000000002,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 10.427083333333334,
+          "end_time": 10.927583333333333,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 12.429083333333333,
+          "end_time": 14.014000000000001,
+          "duration": 1.5849166666666683,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_2/segment_003.mp4",
+          "start_time": 14.347666666666667,
+          "end_time": 14.848166666666668,
+          "duration": 0.5005000000000006,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_2/segment_004.mp4",
+          "start_time": 39.37266666666667,
+          "end_time": 40.5405,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 2.585916666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 17.100416666666668,
+          "end_time": 17.934583333333332,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 37.5375,
+          "end_time": 38.455083333333334,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 46.5465,
+          "end_time": 47.38066666666667,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Phillies_vs_Orioles_Highlights_747024
+Total Angles Discovered: 7
+Total Segments: 75
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 21
+  Total Duration: 28.28s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.00s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (1.50s)
+    - angle_3/segment_004.mp4 (0.50s)
+    - angle_3/segment_005.mp4 (0.50s)
+    - angle_3/segment_006.mp4 (3.84s)
+    - angle_3/segment_007.mp4 (5.26s)
+    - angle_3/segment_008.mp4 (2.59s)
+    - angle_3/segment_009.mp4 (1.42s)
+    - angle_3/segment_010.mp4 (0.58s)
+    - angle_3/segment_011.mp4 (0.58s)
+    - angle_3/segment_012.mp4 (1.84s)
+    - angle_3/segment_013.mp4 (0.67s)
+    - angle_3/segment_014.mp4 (0.83s)
+    - angle_3/segment_015.mp4 (0.67s)
+    - angle_3/segment_016.mp4 (1.84s)
+    - angle_3/segment_017.mp4 (0.75s)
+    - angle_3/segment_018.mp4 (0.67s)
+    - angle_3/segment_019.mp4 (1.17s)
+    - angle_3/segment_020.mp4 (0.58s)
+    - angle_3/segment_021.mp4 (0.58s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 3.00s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.58s)
+    - angle_9/segment_002.mp4 (1.42s)
+
+Angle 10:
+  Segments: 4
+  Total Duration: 4.25s
+  Segment Files:
+    - angle_10/segment_001.mp4 (0.92s)
+    - angle_10/segment_002.mp4 (1.00s)
+    - angle_10/segment_003.mp4 (1.25s)
+    - angle_10/segment_004.mp4 (1.08s)
+
+Angle 12:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_12/segment_001.mp4 (1.08s)
+
+Angle 17:
+  Segments: 39
+  Total Duration: 123.96s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.75s)
+    - angle_17/segment_002.mp4 (5.34s)
+    - angle_17/segment_003.mp4 (12.60s)
+    - angle_17/segment_004.mp4 (1.84s)
+    - angle_17/segment_005.mp4 (1.84s)
+    - angle_17/segment_006.mp4 (2.59s)
+    - angle_17/segment_007.mp4 (1.00s)
+    - angle_17/segment_008.mp4 (1.42s)
+    - angle_17/segment_009.mp4 (1.17s)
+    - angle_17/segment_010.mp4 (2.00s)
+    - angle_17/segment_011.mp4 (7.34s)
+    - angle_17/segment_012.mp4 (2.75s)
+    - angle_17/segment_013.mp4 (2.42s)
+    - angle_17/segment_014.mp4 (2.50s)
+    - angle_17/segment_015.mp4 (2.17s)
+    - angle_17/segment_016.mp4 (2.00s)
+    - angle_17/segment_017.mp4 (3.17s)
+    - angle_17/segment_018.mp4 (2.84s)
+    - angle_17/segment_019.mp4 (1.00s)
+    - angle_17/segment_020.mp4 (1.33s)
+    - angle_17/segment_021.mp4 (5.67s)
+    - angle_17/segment_022.mp4 (4.00s)
+    - angle_17/segment_023.mp4 (1.00s)
+    - angle_17/segment_024.mp4 (7.26s)
+    - angle_17/segment_025.mp4 (1.00s)
+    - angle_17/segment_026.mp4 (8.93s)
+    - angle_17/segment_027.mp4 (0.50s)
+    - angle_17/segment_028.mp4 (3.75s)
+    - angle_17/segment_029.mp4 (8.59s)
+    - angle_17/segment_030.mp4 (1.92s)
+    - angle_17/segment_031.mp4 (3.00s)
+    - angle_17/segment_032.mp4 (2.50s)
+    - angle_17/segment_033.mp4 (1.33s)
+    - angle_17/segment_034.mp4 (2.75s)
+    - angle_17/segment_035.mp4 (7.26s)
+    - angle_17/segment_036.mp4 (1.50s)
+    - angle_17/segment_037.mp4 (0.67s)
+    - angle_17/segment_038.mp4 (1.25s)
+    - angle_17/segment_039.mp4 (2.00s)
+
+Angle 18:
+  Segments: 3
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_18/segment_001.mp4 (0.50s)
+    - angle_18/segment_002.mp4 (0.67s)
+    - angle_18/segment_003.mp4 (0.50s)
+
+Angle 19:
+  Segments: 5
+  Total Duration: 6.34s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.75s)
+    - angle_19/segment_002.mp4 (1.58s)
+    - angle_19/segment_003.mp4 (0.58s)
+    - angle_19/segment_004.mp4 (2.75s)
+    - angle_19/segment_005.mp4 (0.67s)

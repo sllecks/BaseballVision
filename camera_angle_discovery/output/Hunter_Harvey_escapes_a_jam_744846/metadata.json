@@ -1,0 +1,63 @@
+{
+  "video_name": "Hunter_Harvey_escapes_a_jam_744846",
+  "n_angles": 3,
+  "total_segments": 5,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 3.6703333333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.6703333333333332,
+          "duration": 3.6703333333333332,
+          "n_frames": 45
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 2,
+      "total_duration": 6.006,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 3.9205833333333335,
+          "end_time": 6.006,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_19/segment_002.mp4",
+          "start_time": 7.5075,
+          "end_time": 11.428083333333333,
+          "duration": 3.920583333333333,
+          "n_frames": 48
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 3.8371666666666684,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 6.089416666666667,
+          "end_time": 7.424083333333334,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.5115,
+          "end_time": 14.014000000000001,
+          "duration": 2.5025000000000013,
+          "n_frames": 31
+        }
+      ]
+    }
+  }
+}

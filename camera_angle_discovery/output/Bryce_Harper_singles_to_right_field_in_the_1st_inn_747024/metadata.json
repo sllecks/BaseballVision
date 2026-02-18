@@ -1,0 +1,84 @@
+{
+  "video_name": "Bryce_Harper_singles_to_right_field_in_the_1st_inn_747024",
+  "n_angles": 2,
+  "total_segments": 9,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 2.8361666666666685,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.5005000000000001,
+          "end_time": 1.5015,
+          "duration": 1.001,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.921583333333333,
+          "end_time": 5.422083333333333,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 9.926583333333333,
+          "end_time": 10.76075,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 19.26925,
+          "end_time": 19.769750000000002,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 13.930583333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.5849166666666668,
+          "end_time": 3.1698333333333335,
+          "duration": 1.5849166666666668,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.5035000000000003,
+          "end_time": 4.838166666666667,
+          "duration": 1.3346666666666667,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 9.843166666666667,
+          "duration": 4.337666666666666,
+          "n_frames": 53
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 10.844166666666666,
+          "end_time": 15.26525,
+          "duration": 4.421083333333334,
+          "n_frames": 54
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 15.598916666666668,
+          "end_time": 17.851166666666668,
+          "duration": 2.25225,
+          "n_frames": 28
+        }
+      ]
+    }
+  }
+}

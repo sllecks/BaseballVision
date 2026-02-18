@@ -1,0 +1,41 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Ernie_Clements_go-ahead_sacrifice_fly_747175
+Total Angles Discovered: 4
+Total Segments: 12
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 5
+  Total Duration: 6.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.00s)
+    - angle_3/segment_002.mp4 (2.25s)
+    - angle_3/segment_003.mp4 (0.75s)
+    - angle_3/segment_004.mp4 (0.92s)
+    - angle_3/segment_005.mp4 (0.75s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 1.25s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.50s)
+    - angle_9/segment_002.mp4 (0.75s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.67s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 10.51s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.50s)
+    - angle_17/segment_002.mp4 (1.17s)
+    - angle_17/segment_003.mp4 (2.25s)
+    - angle_17/segment_004.mp4 (5.59s)

@@ -1,0 +1,35 @@
+{
+  "video_name": "Trevor_Richards_strikes_out_Daniel_Schneemann_744925",
+  "n_angles": 1,
+  "total_segments": 3,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 7.173833333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.5025,
+          "duration": 2.5025,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 2.919583333333333,
+          "end_time": 4.671333333333333,
+          "duration": 1.75175,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 8.425083333333333,
+          "duration": 2.9195833333333328,
+          "n_frames": 36
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "video_name": "Trevor_Rogers_Ks_Joey_Meneses_744846",
+  "n_angles": 2,
+  "total_segments": 5,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 2.5025,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.5005000000000001,
+          "duration": 0.5005000000000001,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 3.75375,
+          "end_time": 5.75575,
+          "duration": 2.002,
+          "n_frames": 25
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 3.0864166666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 1.1678333333333333,
+          "end_time": 1.7517500000000001,
+          "duration": 0.5839166666666669,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 3.6703333333333332,
+          "duration": 1.668333333333333,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 6.840166666666667,
+          "end_time": 7.674333333333333,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

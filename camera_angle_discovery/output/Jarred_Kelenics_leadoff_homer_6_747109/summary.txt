@@ -1,0 +1,43 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Jarred_Kelenics_leadoff_homer_6_747109
+Total Angles Discovered: 5
+Total Segments: 9
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 3
+  Total Duration: 2.59s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.58s)
+    - angle_2/segment_002.mp4 (0.50s)
+    - angle_2/segment_003.mp4 (0.50s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.50s)
+
+Angle 11:
+  Segments: 2
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_11/segment_001.mp4 (0.92s)
+    - angle_11/segment_002.mp4 (0.75s)
+
+Angle 17:
+  Segments: 2
+  Total Duration: 13.60s
+  Segment Files:
+    - angle_17/segment_001.mp4 (4.09s)
+    - angle_17/segment_002.mp4 (9.51s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.50s)

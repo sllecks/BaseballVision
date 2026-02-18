@@ -1,0 +1,168 @@
+{
+  "video_name": "Colton_Cowser_hits_110_mph_443-foot_home_run_747023",
+  "n_angles": 6,
+  "total_segments": 17,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 2.919583333333331,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 1.0844166666666666,
+          "end_time": 1.5849166666666668,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 2.6693333333333333,
+          "duration": 0.6673333333333331,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 17.434083333333334,
+          "end_time": 18.685333333333332,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 30.196833333333334,
+          "end_time": 30.697333333333333,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 9,
+      "total_duration": 35.03499999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.25325,
+          "end_time": 4.087416666666667,
+          "duration": 0.834166666666667,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.089416666666667,
+          "end_time": 13.930583333333333,
+          "duration": 7.841166666666666,
+          "n_frames": 95
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.76875,
+          "end_time": 26.443083333333334,
+          "duration": 7.674333333333333,
+          "n_frames": 93
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 30.947583333333334,
+          "end_time": 35.035000000000004,
+          "duration": 4.08741666666667,
+          "n_frames": 50
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 35.36866666666667,
+          "end_time": 36.953583333333334,
+          "duration": 1.5849166666666648,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 37.203833333333336,
+          "end_time": 43.96058333333333,
+          "duration": 6.756749999999997,
+          "n_frames": 82
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 44.21083333333333,
+          "end_time": 45.46208333333333,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 45.962583333333335,
+          "end_time": 48.79875,
+          "duration": 2.8361666666666636,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 49.79975,
+          "end_time": 51.968583333333335,
+          "duration": 2.168833333333332,
+          "n_frames": 27
+        }
+      ]
+    },
+    "11": {
+      "angle_id": 11,
+      "n_segments": 1,
+      "total_duration": 0.5839166666666662,
+      "segments": [
+        {
+          "filename": "angle_11/segment_001.mp4",
+          "start_time": 4.5045,
+          "end_time": 5.088416666666666,
+          "duration": 0.5839166666666662,
+          "n_frames": 8
+        }
+      ]
+    },
+    "16": {
+      "angle_id": 16,
+      "n_segments": 1,
+      "total_duration": 2.2522499999999983,
+      "segments": [
+        {
+          "filename": "angle_16/segment_001.mp4",
+          "start_time": 14.014000000000001,
+          "end_time": 16.26625,
+          "duration": 2.2522499999999983,
+          "n_frames": 28
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333318,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 16.683333333333334,
+          "end_time": 17.350666666666665,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.7517499999999977,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 26.526500000000002,
+          "end_time": 28.27825,
+          "duration": 1.7517499999999977,
+          "n_frames": 22
+        }
+      ]
+    }
+  }
+}

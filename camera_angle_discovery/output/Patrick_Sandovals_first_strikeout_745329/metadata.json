@@ -1,0 +1,42 @@
+{
+  "video_name": "Patrick_Sandovals_first_strikeout_745329",
+  "n_angles": 2,
+  "total_segments": 3,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 3.7537500000000006,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0020000000000002,
+          "duration": 2.0020000000000002,
+          "n_frames": 25
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 3.75375,
+          "end_time": 5.5055000000000005,
+          "duration": 1.7517500000000004,
+          "n_frames": 22
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.5004999999999997,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.1698333333333335,
+          "end_time": 3.6703333333333332,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

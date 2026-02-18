@@ -1,0 +1,34 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Ramón_Urías_slick_barehand_play_747024
+Total Angles Discovered: 3
+Total Segments: 10
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.58s)
+
+Angle 3:
+  Segments: 4
+  Total Duration: 4.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.67s)
+    - angle_3/segment_002.mp4 (0.58s)
+    - angle_3/segment_003.mp4 (1.75s)
+    - angle_3/segment_004.mp4 (0.67s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 12.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.75s)
+    - angle_17/segment_002.mp4 (1.58s)
+    - angle_17/segment_003.mp4 (4.59s)
+    - angle_17/segment_004.mp4 (2.92s)
+    - angle_17/segment_005.mp4 (2.92s)

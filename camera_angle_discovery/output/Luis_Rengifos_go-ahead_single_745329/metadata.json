@@ -1,0 +1,63 @@
+{
+  "video_name": "Luis_Rengifos_go-ahead_single_745329",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 1.6683333333333334,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.9175833333333333,
+          "duration": 0.9175833333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 2.25225,
+          "end_time": 3.003,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 18.601916666666668,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.0010000000000001,
+          "end_time": 1.6683333333333334,
+          "duration": 0.6673333333333333,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.0864166666666666,
+          "end_time": 5.5055000000000005,
+          "duration": 2.419083333333334,
+          "n_frames": 30
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 6.006,
+          "end_time": 7.590916666666667,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 8.842166666666667,
+          "end_time": 22.772750000000002,
+          "duration": 13.930583333333335,
+          "n_frames": 168
+        }
+      ]
+    }
+  }
+}

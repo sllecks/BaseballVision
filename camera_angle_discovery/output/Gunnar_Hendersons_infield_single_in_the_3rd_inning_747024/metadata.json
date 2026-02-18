@@ -1,0 +1,63 @@
+{
+  "video_name": "Gunnar_Hendersons_infield_single_in_the_3rd_inning_747024",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 8.174833333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.41708333333333336,
+          "end_time": 1.4180833333333334,
+          "duration": 1.001,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 1.7517500000000001,
+          "end_time": 5.839166666666666,
+          "duration": 4.087416666666666,
+          "n_frames": 50
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 8.25825,
+          "end_time": 11.344666666666667,
+          "duration": 3.0864166666666666,
+          "n_frames": 38
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 9.592916666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 6.2562500000000005,
+          "end_time": 8.174833333333334,
+          "duration": 1.9185833333333333,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.428083333333333,
+          "end_time": 13.596916666666667,
+          "duration": 2.1688333333333336,
+          "n_frames": 27
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 13.930583333333333,
+          "end_time": 19.436083333333332,
+          "duration": 5.5055,
+          "n_frames": 67
+        }
+      ]
+    }
+  }
+}

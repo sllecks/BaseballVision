@@ -1,0 +1,35 @@
+{
+  "video_name": "Miles_Mikolas_strikes_out_Christopher_Morel_746866",
+  "n_angles": 2,
+  "total_segments": 2,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 3.6703333333333332,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.9175833333333333,
+          "end_time": 4.587916666666667,
+          "duration": 3.6703333333333332,
+          "n_frames": 45
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 1.0844166666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.422083333333333,
+          "end_time": 6.5065,
+          "duration": 1.0844166666666668,
+          "n_frames": 14
+        }
+      ]
+    }
+  }
+}

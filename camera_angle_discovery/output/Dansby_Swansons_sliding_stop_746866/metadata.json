@@ -1,0 +1,70 @@
+{
+  "video_name": "Dansby_Swansons_sliding_stop_746866",
+  "n_angles": 2,
+  "total_segments": 7,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 6.2562500000000005,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.7517500000000001,
+          "duration": 1.7517500000000001,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 2.6693333333333333,
+          "end_time": 5.75575,
+          "duration": 3.0864166666666666,
+          "n_frames": 38
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 6.5065,
+          "end_time": 7.3406666666666665,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 11.26125,
+          "end_time": 11.845166666666668,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 2.8361666666666654,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.839166666666666,
+          "end_time": 6.4230833333333335,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 8.008000000000001,
+          "end_time": 8.675333333333333,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 10.76075,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        }
+      ]
+    }
+  }
+}

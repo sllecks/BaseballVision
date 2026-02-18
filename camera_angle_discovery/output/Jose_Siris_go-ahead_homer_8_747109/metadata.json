@@ -1,0 +1,84 @@
+{
+  "video_name": "Jose_Siris_go-ahead_homer_8_747109",
+  "n_angles": 4,
+  "total_segments": 7,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 21.521499999999996,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.5839166666666666,
+          "duration": 0.5839166666666666,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 7.3406666666666665,
+          "end_time": 23.940583333333333,
+          "duration": 16.599916666666665,
+          "n_frames": 200
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 24.274250000000002,
+          "end_time": 27.193833333333334,
+          "duration": 2.919583333333332,
+          "n_frames": 36
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 29.27925,
+          "end_time": 30.697333333333333,
+          "duration": 1.4180833333333318,
+          "n_frames": 18
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.8341666666666667,
+          "end_time": 1.5015,
+          "duration": 0.6673333333333333,
+          "n_frames": 9
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 2.9195833333333336,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 2.25225,
+          "end_time": 5.171833333333334,
+          "duration": 2.9195833333333336,
+          "n_frames": 36
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 1.2512499999999998,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 6.006,
+          "end_time": 7.25725,
+          "duration": 1.2512499999999998,
+          "n_frames": 16
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "video_name": "Logan_OHoppes_467-foot_1101_mph_home_run_745329",
+  "n_angles": 4,
+  "total_segments": 11,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 25.442083333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5849166666666668,
+          "duration": 1.5849166666666668,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 11.678333333333333,
+          "duration": 2.5024999999999995,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 12.26225,
+          "end_time": 21.855166666666666,
+          "duration": 9.592916666666666,
+          "n_frames": 116
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 22.689333333333334,
+          "end_time": 26.943583333333333,
+          "duration": 4.254249999999999,
+          "n_frames": 52
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 29.112416666666668,
+          "end_time": 36.61991666666667,
+          "duration": 7.5075,
+          "n_frames": 91
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 2.1688333333333336,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 1.6683333333333334,
+          "end_time": 2.3356666666666666,
+          "duration": 0.6673333333333331,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 2.919583333333333,
+          "end_time": 4.421083333333334,
+          "duration": 1.5015000000000005,
+          "n_frames": 19
+        }
+      ]
+    },
+    "11": {
+      "angle_id": 11,
+      "n_segments": 1,
+      "total_duration": 0.5839166666666671,
+      "segments": [
+        {
+          "filename": "angle_11/segment_001.mp4",
+          "start_time": 5.088416666666666,
+          "end_time": 5.6723333333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 3,
+      "total_duration": 3.7537499999999966,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 7.5075,
+          "end_time": 8.591916666666666,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_10/segment_002.mp4",
+          "start_time": 21.938583333333334,
+          "end_time": 22.605916666666666,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_10/segment_003.mp4",
+          "start_time": 27.027,
+          "end_time": 29.029,
+          "duration": 2.001999999999999,
+          "n_frames": 25
+        }
+      ]
+    }
+  }
+}

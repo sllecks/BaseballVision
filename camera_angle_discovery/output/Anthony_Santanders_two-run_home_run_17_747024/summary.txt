@@ -1,0 +1,43 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Anthony_Santanders_two-run_home_run_17_747024
+Total Angles Discovered: 5
+Total Segments: 9
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.58s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.42s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.42s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 2.34s
+  Segment Files:
+    - angle_10/segment_001.mp4 (2.34s)
+
+Angle 12:
+  Segments: 1
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_12/segment_001.mp4 (1.50s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 18.69s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.92s)
+    - angle_17/segment_002.mp4 (1.25s)
+    - angle_17/segment_003.mp4 (3.67s)
+    - angle_17/segment_004.mp4 (8.43s)
+    - angle_17/segment_005.mp4 (1.42s)

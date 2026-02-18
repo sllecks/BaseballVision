@@ -1,0 +1,21 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Andrew_Kittredges_clutch_strikeout_746866
+Total Angles Discovered: 2
+Total Segments: 2
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 0.83s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.83s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 4.25s
+  Segment Files:
+    - angle_17/segment_001.mp4 (4.25s)

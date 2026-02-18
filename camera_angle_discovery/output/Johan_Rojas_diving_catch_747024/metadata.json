@@ -1,0 +1,84 @@
+{
+  "video_name": "Johan_Rojas_diving_catch_747024",
+  "n_angles": 2,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 18.85216666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.75075,
+          "end_time": 1.25125,
+          "duration": 0.5005,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 2.6693333333333333,
+          "end_time": 6.089416666666667,
+          "duration": 3.4200833333333334,
+          "n_frames": 42
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 8.425083333333333,
+          "end_time": 15.932583333333334,
+          "duration": 7.5075,
+          "n_frames": 91
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 18.268250000000002,
+          "end_time": 24.274250000000002,
+          "duration": 6.006,
+          "n_frames": 73
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 24.691333333333333,
+          "end_time": 26.109416666666668,
+          "duration": 1.4180833333333354,
+          "n_frames": 18
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 3.586916666666667,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 1.3346666666666667,
+          "end_time": 1.8351666666666666,
+          "duration": 0.5005,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 6.172833333333333,
+          "end_time": 7.3406666666666665,
+          "duration": 1.1678333333333333,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 16.016000000000002,
+          "end_time": 17.100416666666668,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 17.350666666666665,
+          "end_time": 18.184833333333334,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

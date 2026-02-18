@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Adley_Rutschmans_solo_home_run_14_747023
+Total Angles Discovered: 3
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 2
+  Total Duration: 2.17s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.50s)
+    - angle_3/segment_002.mp4 (0.67s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 16.52s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.67s)
+    - angle_17/segment_002.mp4 (0.92s)
+    - angle_17/segment_003.mp4 (0.50s)
+    - angle_17/segment_004.mp4 (13.43s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.50s)

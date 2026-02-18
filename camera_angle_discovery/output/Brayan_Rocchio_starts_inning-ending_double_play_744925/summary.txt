@@ -1,0 +1,23 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Brayan_Rocchio_starts_inning-ending_double_play_744925
+Total Angles Discovered: 2
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 12.26s
+  Segment Files:
+    - angle_3/segment_001.mp4 (6.76s)
+    - angle_3/segment_002.mp4 (3.75s)
+    - angle_3/segment_003.mp4 (1.75s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 3.25s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.25s)

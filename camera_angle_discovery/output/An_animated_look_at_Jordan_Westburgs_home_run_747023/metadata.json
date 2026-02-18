@@ -1,0 +1,56 @@
+{
+  "video_name": "An_animated_look_at_Jordan_Westburgs_home_run_747023",
+  "n_angles": 2,
+  "total_segments": 5,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 8.600000000000001,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.8,
+          "duration": 2.8,
+          "n_frames": 29
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.7,
+          "end_time": 4.8,
+          "duration": 1.0999999999999996,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 6.5,
+          "end_time": 7.9,
+          "duration": 1.4000000000000004,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 8.2,
+          "end_time": 11.5,
+          "duration": 3.3000000000000007,
+          "n_frames": 34
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 1.5,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.9,
+          "end_time": 6.4,
+          "duration": 1.5,
+          "n_frames": 16
+        }
+      ]
+    }
+  }
+}

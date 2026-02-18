@@ -1,0 +1,49 @@
+{
+  "video_name": "Jes\u00fas_Luzardo_strikes_out_Lane_Thomas_744839",
+  "n_angles": 2,
+  "total_segments": 4,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 3,
+      "total_duration": 4.9215833333333325,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.919583333333333,
+          "duration": 2.919583333333333,
+          "n_frames": 36
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 3.75375,
+          "end_time": 4.7547500000000005,
+          "duration": 1.0010000000000003,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_2/segment_003.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 6.5065,
+          "duration": 1.0009999999999994,
+          "n_frames": 13
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 0.8341666666666665,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.090416666666667,
+          "end_time": 7.9245833333333335,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video_name": "Corbin_Burnes_strikes_out_Brandon_Marsh_in_the_2nd_747023",
+  "n_angles": 2,
+  "total_segments": 4,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 4.587916666666667,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.75075,
+          "end_time": 2.919583333333333,
+          "duration": 2.168833333333333,
+          "n_frames": 27
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.1698333333333335,
+          "end_time": 4.838166666666667,
+          "duration": 1.6683333333333334,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 5.005,
+          "end_time": 5.75575,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.917583333333333,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 6.006,
+          "end_time": 6.923583333333333,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    }
+  }
+}

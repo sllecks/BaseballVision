@@ -1,0 +1,140 @@
+{
+  "video_name": "Brandon_Hyde_on_hitting_a_top_pitcher_in_MLB_747023",
+  "n_angles": 4,
+  "total_segments": 15,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 64.06400000000001,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 11.26125,
+          "duration": 11.26125,
+          "n_frames": 136
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 17.434083333333334,
+          "end_time": 23.27325,
+          "duration": 5.839166666666667,
+          "n_frames": 71
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 24.107416666666666,
+          "end_time": 26.77675,
+          "duration": 2.6693333333333342,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 28.5285,
+          "end_time": 55.47208333333334,
+          "duration": 26.943583333333336,
+          "n_frames": 324
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 60.06,
+          "end_time": 72.48908333333334,
+          "duration": 12.429083333333338,
+          "n_frames": 150
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 77.99458333333334,
+          "end_time": 82.91616666666667,
+          "duration": 4.921583333333331,
+          "n_frames": 60
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 6,
+      "total_duration": 10.00999999999999,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 11.845166666666668,
+          "end_time": 13.930583333333333,
+          "duration": 2.0854166666666654,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 14.5145,
+          "end_time": 15.098416666666667,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 26.860166666666668,
+          "end_time": 27.861166666666666,
+          "duration": 1.0009999999999977,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 55.5555,
+          "end_time": 56.38966666666667,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 57.30725,
+          "end_time": 59.97658333333334,
+          "duration": 2.6693333333333342,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 72.5725,
+          "end_time": 75.40866666666666,
+          "duration": 2.8361666666666565,
+          "n_frames": 35
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 2.001999999999997,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 15.181833333333334,
+          "end_time": 15.849166666666667,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 76.07600000000001,
+          "end_time": 77.41066666666667,
+          "duration": 1.3346666666666636,
+          "n_frames": 17
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 16.099416666666666,
+          "end_time": 16.850166666666667,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    }
+  }
+}

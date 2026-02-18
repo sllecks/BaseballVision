@@ -1,0 +1,37 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Ildemaro_Vargas_RBI_double_744839
+Total Angles Discovered: 4
+Total Segments: 8
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 3.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (3.67s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 1.00s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.00s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 17.77s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.50s)
+    - angle_17/segment_002.mp4 (11.51s)
+    - angle_17/segment_003.mp4 (3.34s)
+    - angle_17/segment_004.mp4 (2.42s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.83s)
+    - angle_19/segment_002.mp4 (0.83s)

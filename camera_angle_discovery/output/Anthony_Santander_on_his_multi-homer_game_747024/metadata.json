@@ -1,0 +1,91 @@
+{
+  "video_name": "Anthony_Santander_on_his_multi-homer_game_747024",
+  "n_angles": 3,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 125.37525000000002,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 20.603916666666667,
+          "duration": 20.603916666666667,
+          "n_frames": 248
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 20.937583333333333,
+          "end_time": 24.941583333333334,
+          "duration": 4.004000000000001,
+          "n_frames": 49
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 25.191833333333335,
+          "end_time": 27.694333333333333,
+          "duration": 2.5024999999999977,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 28.611916666666666,
+          "end_time": 29.77975,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 31.114416666666667,
+          "end_time": 31.698333333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 32.78275,
+          "end_time": 129.29583333333335,
+          "duration": 96.51308333333336,
+          "n_frames": 1158
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 27.77775,
+          "end_time": 28.5285,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 2,
+      "total_duration": 1.6683333333333294,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 29.863166666666668,
+          "end_time": 31.031,
+          "duration": 1.1678333333333306,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_19/segment_002.mp4",
+          "start_time": 31.78175,
+          "end_time": 32.28225,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

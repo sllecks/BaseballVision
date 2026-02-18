@@ -1,0 +1,70 @@
+{
+  "video_name": "Hunter_Strickland_induces_groundout_escapes_jam_745329",
+  "n_angles": 3,
+  "total_segments": 6,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 2.8361666666666667,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.9185833333333333,
+          "duration": 1.9185833333333333,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 2.168833333333333,
+          "end_time": 3.0864166666666666,
+          "duration": 0.9175833333333334,
+          "n_frames": 12
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 3.7537499999999997,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.1698333333333335,
+          "end_time": 5.422083333333333,
+          "duration": 2.2522499999999996,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 6.4230833333333335,
+          "end_time": 7.9245833333333335,
+          "duration": 1.5015,
+          "n_frames": 19
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 3.8371666666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 6.339666666666667,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 8.008000000000001,
+          "end_time": 11.011000000000001,
+          "duration": 3.003,
+          "n_frames": 37
+        }
+      ]
+    }
+  }
+}

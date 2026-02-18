@@ -1,0 +1,43 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Rob_Thomson_is_ejected_in_the_top_of_the_6th_747023
+Total Angles Discovered: 3
+Total Segments: 19
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 4
+  Total Duration: 5.01s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.58s)
+    - angle_2/segment_002.mp4 (1.67s)
+    - angle_2/segment_003.mp4 (1.67s)
+    - angle_2/segment_004.mp4 (1.08s)
+
+Angle 3:
+  Segments: 4
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.92s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (0.58s)
+    - angle_3/segment_004.mp4 (0.50s)
+
+Angle 17:
+  Segments: 11
+  Total Duration: 58.98s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.92s)
+    - angle_17/segment_002.mp4 (0.83s)
+    - angle_17/segment_003.mp4 (4.25s)
+    - angle_17/segment_004.mp4 (0.50s)
+    - angle_17/segment_005.mp4 (21.77s)
+    - angle_17/segment_006.mp4 (0.83s)
+    - angle_17/segment_007.mp4 (1.67s)
+    - angle_17/segment_008.mp4 (1.00s)
+    - angle_17/segment_009.mp4 (0.50s)
+    - angle_17/segment_010.mp4 (4.59s)
+    - angle_17/segment_011.mp4 (22.11s)

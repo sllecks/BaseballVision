@@ -1,0 +1,84 @@
+{
+  "video_name": "Joey_Meneses_sac_fly_744846",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 5.005000000000002,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.08341666666666667,
+          "end_time": 4.087416666666667,
+          "duration": 4.0040000000000004,
+          "n_frames": 49
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 9.426083333333333,
+          "end_time": 10.427083333333334,
+          "duration": 1.0010000000000012,
+          "n_frames": 13
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 11.928583333333336,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.75575,
+          "end_time": 7.841166666666667,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 8.008000000000001,
+          "end_time": 9.342666666666666,
+          "duration": 1.3346666666666653,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 10.5105,
+          "end_time": 11.761750000000001,
+          "duration": 1.2512500000000006,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 12.012,
+          "end_time": 15.181833333333334,
+          "duration": 3.169833333333333,
+          "n_frames": 39
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 17.183833333333332,
+          "end_time": 21.271250000000002,
+          "duration": 4.08741666666667,
+          "n_frames": 50
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 1.8351666666666677,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 15.26525,
+          "end_time": 17.100416666666668,
+          "duration": 1.8351666666666677,
+          "n_frames": 23
+        }
+      ]
+    }
+  }
+}

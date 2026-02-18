@@ -1,0 +1,37 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Brandon_Crawford_gets_the_out_at_second_after_revi_746866
+Total Angles Discovered: 3
+Total Segments: 13
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 7
+  Total Duration: 14.01s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.08s)
+    - angle_3/segment_002.mp4 (0.50s)
+    - angle_3/segment_003.mp4 (1.42s)
+    - angle_3/segment_004.mp4 (0.50s)
+    - angle_3/segment_005.mp4 (5.34s)
+    - angle_3/segment_006.mp4 (0.50s)
+    - angle_3/segment_007.mp4 (4.67s)
+
+Angle 10:
+  Segments: 2
+  Total Duration: 2.84s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.08s)
+    - angle_10/segment_002.mp4 (1.75s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 7.67s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.00s)
+    - angle_17/segment_002.mp4 (1.17s)
+    - angle_17/segment_003.mp4 (1.75s)
+    - angle_17/segment_004.mp4 (1.75s)

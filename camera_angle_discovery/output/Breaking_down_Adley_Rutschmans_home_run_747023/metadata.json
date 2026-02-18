@@ -1,0 +1,63 @@
+{
+  "video_name": "Breaking_down_Adley_Rutschmans_home_run_747023",
+  "n_angles": 3,
+  "total_segments": 5,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 5.5,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.4,
+          "end_time": 1.0,
+          "duration": 0.6,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 8.2,
+          "end_time": 13.1,
+          "duration": 4.9,
+          "n_frames": 50
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 1.6999999999999997,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 1.1,
+          "end_time": 2.2,
+          "duration": 1.1,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 2.7,
+          "end_time": 3.3,
+          "duration": 0.5999999999999996,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 4.699999999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.4,
+          "end_time": 8.1,
+          "duration": 4.699999999999999,
+          "n_frames": 48
+        }
+      ]
+    }
+  }
+}

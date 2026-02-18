@@ -1,0 +1,112 @@
+{
+  "video_name": "Tyson_Miller_secures_the_Cubs_win_746865",
+  "n_angles": 3,
+  "total_segments": 12,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 10.92758333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.0844166666666666,
+          "end_time": 1.5849166666666668,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.75675,
+          "end_time": 7.590916666666667,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 10.176833333333333,
+          "end_time": 11.928583333333334,
+          "duration": 1.7517500000000013,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 12.345666666666666,
+          "end_time": 13.096416666666666,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 14.681333333333333,
+          "end_time": 17.684333333333335,
+          "duration": 3.003000000000002,
+          "n_frames": 37
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 20.186833333333333,
+          "end_time": 24.274250000000002,
+          "duration": 4.08741666666667,
+          "n_frames": 50
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 5,
+      "total_duration": 6.923583333333335,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.585916666666667,
+          "end_time": 3.6703333333333332,
+          "duration": 1.0844166666666664,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.087416666666667,
+          "end_time": 6.089416666666667,
+          "duration": 2.002,
+          "n_frames": 25
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 7.674333333333333,
+          "end_time": 8.174833333333334,
+          "duration": 0.5005000000000006,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 13.179833333333333,
+          "end_time": 14.597916666666666,
+          "duration": 1.4180833333333336,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 17.76775,
+          "end_time": 19.686333333333334,
+          "duration": 1.9185833333333342,
+          "n_frames": 24
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 2.085416666666667,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 24.441083333333335,
+          "end_time": 26.526500000000002,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        }
+      ]
+    }
+  }
+}

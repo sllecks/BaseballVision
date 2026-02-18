@@ -1,0 +1,34 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Nick_Senzel_safe_at_second_after_challenge_744839
+Total Angles Discovered: 2
+Total Segments: 15
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 9
+  Total Duration: 14.76s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.34s)
+    - angle_3/segment_002.mp4 (3.84s)
+    - angle_3/segment_003.mp4 (2.42s)
+    - angle_3/segment_004.mp4 (0.58s)
+    - angle_3/segment_005.mp4 (0.67s)
+    - angle_3/segment_006.mp4 (0.58s)
+    - angle_3/segment_007.mp4 (0.92s)
+    - angle_3/segment_008.mp4 (2.09s)
+    - angle_3/segment_009.mp4 (1.33s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 25.28s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.84s)
+    - angle_17/segment_002.mp4 (5.34s)
+    - angle_17/segment_003.mp4 (1.67s)
+    - angle_17/segment_004.mp4 (3.59s)
+    - angle_17/segment_005.mp4 (6.42s)
+    - angle_17/segment_006.mp4 (6.42s)

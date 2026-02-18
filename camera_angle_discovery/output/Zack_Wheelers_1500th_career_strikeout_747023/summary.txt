@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Zack_Wheelers_1500th_career_strikeout_747023
+Total Angles Discovered: 3
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 1.00s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.00s)
+
+Angle 3:
+  Segments: 3
+  Total Duration: 4.84s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.83s)
+    - angle_3/segment_002.mp4 (1.25s)
+    - angle_3/segment_003.mp4 (2.75s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 9.59s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.50s)
+    - angle_17/segment_002.mp4 (0.50s)
+    - angle_17/segment_003.mp4 (8.59s)

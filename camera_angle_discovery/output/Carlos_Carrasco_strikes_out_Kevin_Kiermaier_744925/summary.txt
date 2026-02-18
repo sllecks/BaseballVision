@@ -1,0 +1,16 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Carlos_Carrasco_strikes_out_Kevin_Kiermaier_744925
+Total Angles Discovered: 1
+Total Segments: 2
+
+Angle Details:
+--------------------------------------------------
+
+Angle 17:
+  Segments: 2
+  Total Duration: 6.17s
+  Segment Files:
+    - angle_17/segment_001.mp4 (5.00s)
+    - angle_17/segment_002.mp4 (1.17s)

@@ -1,0 +1,77 @@
+{
+  "video_name": "Alec_Bohms_RBI_single_747023",
+  "n_angles": 3,
+  "total_segments": 7,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 2.0854166666666667,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0854166666666667,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 13.013,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.919583333333333,
+          "end_time": 3.4200833333333334,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 4.671333333333333,
+          "end_time": 8.675333333333333,
+          "duration": 4.004,
+          "n_frames": 49
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 8.925583333333334,
+          "end_time": 16.599916666666665,
+          "duration": 7.6743333333333315,
+          "n_frames": 93
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 17.934583333333332,
+          "end_time": 18.76875,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 1.251250000000002,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.5035000000000003,
+          "end_time": 4.25425,
+          "duration": 0.7507499999999996,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 17.017,
+          "end_time": 17.517500000000002,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

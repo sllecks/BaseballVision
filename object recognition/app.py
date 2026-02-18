@@ -6,10 +6,15 @@ Run with: streamlit run app.py
 import streamlit as st
 import os
 import requests
+import sys
 from pathlib import Path
 from main import predict, BASE_DIR
 import time
 from datetime import datetime, timedelta
+
+# Import mlb_clip_downloader from video_downloader folder
+VIDEO_DOWNLOADER_DIR = BASE_DIR.parent / "video_downloader"
+sys.path.insert(0, str(VIDEO_DOWNLOADER_DIR))
 from mlb_clip_downloader import (
     search_mlb_clips,
     download_clip,
@@ -106,8 +111,8 @@ selected_path = None
 with tab1:
     st.header("📹 Select from Local Videos")
     
-    # Get videos directory
-    videos_dir = BASE_DIR / "videos"
+    # Get videos directory from video_downloader folder
+    videos_dir = VIDEO_DOWNLOADER_DIR / "videos"
     
     if videos_dir.exists():
         video_files = list(videos_dir.glob("*.mp4")) + list(videos_dir.glob("*.avi")) + \
@@ -141,7 +146,7 @@ with tab2:
     
     if uploaded_file is not None:
         # Save uploaded file
-        upload_dir = BASE_DIR / "videos" / "uploads"
+        upload_dir = VIDEO_DOWNLOADER_DIR / "videos" / "uploads"
         upload_dir.mkdir(parents=True, exist_ok=True)
         temp_path = upload_dir / uploaded_file.name
         

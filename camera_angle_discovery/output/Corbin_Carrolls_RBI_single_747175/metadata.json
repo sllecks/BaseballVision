@@ -1,0 +1,77 @@
+{
+  "video_name": "Corbin_Carrolls_RBI_single_747175",
+  "n_angles": 2,
+  "total_segments": 8,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 7.841166666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0020000000000002,
+          "duration": 2.0020000000000002,
+          "n_frames": 25
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 7.424083333333334,
+          "end_time": 8.758750000000001,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 9.092416666666667,
+          "end_time": 10.260250000000001,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 17.26725,
+          "end_time": 20.603916666666667,
+          "duration": 3.336666666666666,
+          "n_frames": 41
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 16.26625,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.5025,
+          "end_time": 7.3406666666666665,
+          "duration": 4.838166666666666,
+          "n_frames": 59
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.094416666666667,
+          "end_time": 13.596916666666667,
+          "duration": 2.5024999999999995,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 14.014000000000001,
+          "end_time": 17.183833333333332,
+          "duration": 3.1698333333333313,
+          "n_frames": 39
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 21.104416666666665,
+          "end_time": 26.860166666666668,
+          "duration": 5.755750000000003,
+          "n_frames": 70
+        }
+      ]
+    }
+  }
+}

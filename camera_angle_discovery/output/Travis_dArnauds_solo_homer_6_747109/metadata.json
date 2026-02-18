@@ -1,0 +1,119 @@
+{
+  "video_name": "Travis_dArnauds_solo_homer_6_747109",
+  "n_angles": 6,
+  "total_segments": 10,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.8351666666666666,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.8351666666666666,
+          "duration": 1.8351666666666666,
+          "n_frames": 23
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 15.432083333333335,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.5025,
+          "end_time": 3.003,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 9.009,
+          "end_time": 13.179833333333333,
+          "duration": 4.1708333333333325,
+          "n_frames": 51
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 15.5155,
+          "end_time": 26.27625,
+          "duration": 10.760750000000002,
+          "n_frames": 130
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 1.2512500000000002,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.5035000000000003,
+          "end_time": 4.7547500000000005,
+          "duration": 1.2512500000000002,
+          "n_frames": 16
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 1.3346666666666671,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 4.838166666666667,
+          "end_time": 5.588916666666667,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 8.341666666666667,
+          "end_time": 8.925583333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 2,
+      "total_duration": 2.2522500000000036,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 5.6723333333333334,
+          "end_time": 7.007000000000001,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_10/segment_002.mp4",
+          "start_time": 26.359666666666666,
+          "end_time": 27.277250000000002,
+          "duration": 0.9175833333333365,
+          "n_frames": 12
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 2.168833333333332,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 13.263250000000001,
+          "end_time": 15.432083333333333,
+          "duration": 2.168833333333332,
+          "n_frames": 27
+        }
+      ]
+    }
+  }
+}

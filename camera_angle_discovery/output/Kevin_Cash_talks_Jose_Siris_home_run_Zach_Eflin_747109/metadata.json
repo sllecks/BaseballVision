@@ -1,0 +1,147 @@
+{
+  "video_name": "Kevin_Cash_talks_Jose_Siris_home_run_Zach_Eflin_747109",
+  "n_angles": 3,
+  "total_segments": 17,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 11,
+      "total_duration": 71.32125,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 15.5155,
+          "duration": 15.5155,
+          "n_frames": 187
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 15.932583333333334,
+          "end_time": 16.766750000000002,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.018,
+          "end_time": 29.529500000000002,
+          "duration": 11.511500000000002,
+          "n_frames": 139
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 34.11741666666667,
+          "end_time": 58.224833333333336,
+          "duration": 24.107416666666666,
+          "n_frames": 290
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 60.31025,
+          "end_time": 62.062,
+          "duration": 1.7517499999999941,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 64.39766666666667,
+          "end_time": 65.89916666666667,
+          "duration": 1.5015000000000072,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 69.40266666666666,
+          "end_time": 73.23983333333334,
+          "duration": 3.8371666666666755,
+          "n_frames": 47
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 74.15741666666666,
+          "end_time": 75.24183333333333,
+          "duration": 1.0844166666666695,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 75.49208333333334,
+          "end_time": 76.99358333333333,
+          "duration": 1.501499999999993,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_010.mp4",
+          "start_time": 77.24383333333334,
+          "end_time": 78.74533333333333,
+          "duration": 1.501499999999993,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_011.mp4",
+          "start_time": 79.49608333333333,
+          "end_time": 87.67091666666667,
+          "duration": 8.17483333333334,
+          "n_frames": 99
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 2,
+      "total_duration": 2.25225,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 16.850166666666667,
+          "end_time": 17.934583333333332,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_10/segment_002.mp4",
+          "start_time": 30.947583333333334,
+          "end_time": 32.11541666666667,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 6.339666666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 58.30825,
+          "end_time": 60.22683333333333,
+          "duration": 1.9185833333333306,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 62.896166666666666,
+          "end_time": 64.31425,
+          "duration": 1.4180833333333354,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 65.98258333333334,
+          "end_time": 66.48308333333334,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 66.81675,
+          "end_time": 69.31925,
+          "duration": 2.5024999999999977,
+          "n_frames": 31
+        }
+      ]
+    }
+  }
+}

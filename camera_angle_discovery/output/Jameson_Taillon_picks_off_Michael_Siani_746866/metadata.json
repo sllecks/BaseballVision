@@ -1,0 +1,35 @@
+{
+  "video_name": "Jameson_Taillon_picks_off_Michael_Siani_746866",
+  "n_angles": 2,
+  "total_segments": 2,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.6673333333333333,
+          "duration": 0.6673333333333333,
+          "n_frames": 9
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 9.009,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.75075,
+          "end_time": 9.75975,
+          "duration": 9.009,
+          "n_frames": 109
+        }
+      ]
+    }
+  }
+}

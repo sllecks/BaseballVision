@@ -1,0 +1,75 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Grant_Holmes_family_on_his_MLB_debut_747109
+Total Angles Discovered: 5
+Total Segments: 41
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 6
+  Total Duration: 8.51s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.92s)
+    - angle_2/segment_002.mp4 (1.17s)
+    - angle_2/segment_003.mp4 (0.83s)
+    - angle_2/segment_004.mp4 (4.50s)
+    - angle_2/segment_005.mp4 (0.58s)
+    - angle_2/segment_006.mp4 (0.50s)
+
+Angle 3:
+  Segments: 10
+  Total Duration: 10.43s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (2.09s)
+    - angle_3/segment_004.mp4 (0.67s)
+    - angle_3/segment_005.mp4 (0.83s)
+    - angle_3/segment_006.mp4 (1.17s)
+    - angle_3/segment_007.mp4 (0.58s)
+    - angle_3/segment_008.mp4 (0.50s)
+    - angle_3/segment_009.mp4 (0.50s)
+    - angle_3/segment_010.mp4 (2.42s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 1.25s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.75s)
+    - angle_9/segment_002.mp4 (0.50s)
+
+Angle 17:
+  Segments: 13
+  Total Duration: 39.12s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.58s)
+    - angle_17/segment_002.mp4 (3.09s)
+    - angle_17/segment_003.mp4 (1.00s)
+    - angle_17/segment_004.mp4 (1.17s)
+    - angle_17/segment_005.mp4 (0.67s)
+    - angle_17/segment_006.mp4 (6.42s)
+    - angle_17/segment_007.mp4 (6.51s)
+    - angle_17/segment_008.mp4 (0.67s)
+    - angle_17/segment_009.mp4 (8.68s)
+    - angle_17/segment_010.mp4 (1.17s)
+    - angle_17/segment_011.mp4 (0.67s)
+    - angle_17/segment_012.mp4 (1.08s)
+    - angle_17/segment_013.mp4 (7.42s)
+
+Angle 19:
+  Segments: 10
+  Total Duration: 22.61s
+  Segment Files:
+    - angle_19/segment_001.mp4 (2.34s)
+    - angle_19/segment_002.mp4 (8.09s)
+    - angle_19/segment_003.mp4 (2.09s)
+    - angle_19/segment_004.mp4 (1.58s)
+    - angle_19/segment_005.mp4 (0.50s)
+    - angle_19/segment_006.mp4 (1.00s)
+    - angle_19/segment_007.mp4 (1.00s)
+    - angle_19/segment_008.mp4 (2.75s)
+    - angle_19/segment_009.mp4 (1.92s)
+    - angle_19/segment_010.mp4 (1.33s)

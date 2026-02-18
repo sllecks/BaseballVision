@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Spencer_Horwitzs_RBI_single_744925
+Total Angles Discovered: 3
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.58s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.58s)
+
+Angle 16:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_16/segment_001.mp4 (0.50s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 9.93s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.50s)
+    - angle_17/segment_002.mp4 (0.67s)
+    - angle_17/segment_003.mp4 (2.92s)
+    - angle_17/segment_004.mp4 (2.59s)
+    - angle_17/segment_005.mp4 (1.25s)

@@ -1,0 +1,46 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Gunnar_Hendersons_solo_home_run_22_747023
+Total Angles Discovered: 5
+Total Segments: 12
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 2.09s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.09s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.58s)
+
+Angle 16:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_16/segment_001.mp4 (0.50s)
+
+Angle 17:
+  Segments: 7
+  Total Duration: 19.27s
+  Segment Files:
+    - angle_17/segment_001.mp4 (6.01s)
+    - angle_17/segment_002.mp4 (0.58s)
+    - angle_17/segment_003.mp4 (2.67s)
+    - angle_17/segment_004.mp4 (2.92s)
+    - angle_17/segment_005.mp4 (0.50s)
+    - angle_17/segment_006.mp4 (4.17s)
+    - angle_17/segment_007.mp4 (2.42s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.67s)
+    - angle_19/segment_002.mp4 (0.83s)

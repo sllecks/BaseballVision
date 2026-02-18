@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Dane_Myers_reaching_grab_744846
+Total Angles Discovered: 3
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 1.00s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.00s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.92s)
+    - angle_9/segment_002.mp4 (1.00s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 21.77s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.25s)
+    - angle_17/segment_002.mp4 (3.09s)
+    - angle_17/segment_003.mp4 (1.08s)
+    - angle_17/segment_004.mp4 (15.35s)

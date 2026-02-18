@@ -1,0 +1,70 @@
+{
+  "video_name": "Cedric_Mullins_incredible_diving_catch_747024",
+  "n_angles": 2,
+  "total_segments": 7,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 2.6693333333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5849166666666668,
+          "duration": 1.5849166666666668,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 1.8351666666666666,
+          "end_time": 2.4190833333333335,
+          "duration": 0.5839166666666669,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 2.7527500000000003,
+          "end_time": 3.25325,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 18.017999999999994,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.336666666666667,
+          "end_time": 7.007000000000001,
+          "duration": 3.6703333333333337,
+          "n_frames": 45
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 7.5075,
+          "end_time": 17.76775,
+          "duration": 10.26025,
+          "n_frames": 124
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.268250000000002,
+          "end_time": 20.937583333333333,
+          "duration": 2.6693333333333307,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 21.187833333333334,
+          "end_time": 22.605916666666666,
+          "duration": 1.4180833333333318,
+          "n_frames": 18
+        }
+      ]
+    }
+  }
+}

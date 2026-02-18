@@ -1,0 +1,41 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Carlos_Estévez_seals_the_save_and_Angels_victory_745329
+Total Angles Discovered: 3
+Total Segments: 17
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.09s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.50s)
+    - angle_2/segment_002.mp4 (1.58s)
+
+Angle 3:
+  Segments: 6
+  Total Duration: 7.26s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.58s)
+    - angle_3/segment_002.mp4 (3.92s)
+    - angle_3/segment_003.mp4 (0.58s)
+    - angle_3/segment_004.mp4 (0.83s)
+    - angle_3/segment_005.mp4 (0.58s)
+    - angle_3/segment_006.mp4 (0.75s)
+
+Angle 17:
+  Segments: 9
+  Total Duration: 12.26s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.83s)
+    - angle_17/segment_002.mp4 (3.42s)
+    - angle_17/segment_003.mp4 (0.58s)
+    - angle_17/segment_004.mp4 (0.50s)
+    - angle_17/segment_005.mp4 (1.50s)
+    - angle_17/segment_006.mp4 (2.00s)
+    - angle_17/segment_007.mp4 (0.83s)
+    - angle_17/segment_008.mp4 (1.84s)
+    - angle_17/segment_009.mp4 (0.75s)

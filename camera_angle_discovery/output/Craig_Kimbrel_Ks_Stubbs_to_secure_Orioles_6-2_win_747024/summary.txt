@@ -1,0 +1,24 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Craig_Kimbrel_Ks_Stubbs_to_secure_Orioles_6-2_win_747024
+Total Angles Discovered: 2
+Total Segments: 5
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 4
+  Total Duration: 5.17s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.67s)
+    - angle_3/segment_002.mp4 (1.58s)
+    - angle_3/segment_003.mp4 (1.84s)
+    - angle_3/segment_004.mp4 (1.08s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.08s)

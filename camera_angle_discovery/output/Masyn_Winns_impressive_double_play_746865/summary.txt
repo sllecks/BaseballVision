@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Masyn_Winns_impressive_double_play_746865
+Total Angles Discovered: 2
+Total Segments: 12
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 6
+  Total Duration: 6.34s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.00s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (1.75s)
+    - angle_3/segment_004.mp4 (1.17s)
+    - angle_3/segment_005.mp4 (0.67s)
+    - angle_3/segment_006.mp4 (0.83s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 15.68s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.75s)
+    - angle_17/segment_002.mp4 (0.92s)
+    - angle_17/segment_003.mp4 (6.67s)
+    - angle_17/segment_004.mp4 (0.50s)
+    - angle_17/segment_005.mp4 (2.59s)
+    - angle_17/segment_006.mp4 (4.25s)

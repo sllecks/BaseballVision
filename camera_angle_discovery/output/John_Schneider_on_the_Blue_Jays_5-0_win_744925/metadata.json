@@ -1,0 +1,98 @@
+{
+  "video_name": "John_Schneider_on_the_Blue_Jays_5-0_win_744925",
+  "n_angles": 2,
+  "total_segments": 11,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 8,
+      "total_duration": 58.641916666666674,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 13.5135,
+          "duration": 13.5135,
+          "n_frames": 163
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 16.766750000000002,
+          "end_time": 22.27225,
+          "duration": 5.505499999999998,
+          "n_frames": 67
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 22.5225,
+          "end_time": 43.626916666666666,
+          "duration": 21.104416666666665,
+          "n_frames": 254
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 44.12741666666667,
+          "end_time": 45.62891666666667,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 46.046,
+          "end_time": 46.5465,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 47.5475,
+          "end_time": 54.054,
+          "duration": 6.506500000000003,
+          "n_frames": 79
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 54.30425,
+          "end_time": 56.056000000000004,
+          "duration": 1.7517500000000013,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 56.38966666666667,
+          "end_time": 64.64791666666667,
+          "duration": 8.258250000000004,
+          "n_frames": 100
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 2.168833333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 13.596916666666667,
+          "end_time": 14.681333333333333,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 16.182833333333335,
+          "end_time": 16.683333333333334,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 46.88016666666667,
+          "end_time": 47.464083333333335,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    }
+  }
+}

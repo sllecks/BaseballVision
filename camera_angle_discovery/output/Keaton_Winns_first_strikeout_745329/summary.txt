@@ -1,0 +1,28 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Keaton_Winns_first_strikeout_745329
+Total Angles Discovered: 3
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 3.25s
+  Segment Files:
+    - angle_2/segment_001.mp4 (2.59s)
+    - angle_2/segment_002.mp4 (0.67s)
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.50s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.58s)

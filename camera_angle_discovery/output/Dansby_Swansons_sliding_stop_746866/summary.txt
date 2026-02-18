@@ -1,0 +1,26 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Dansby_Swansons_sliding_stop_746866
+Total Angles Discovered: 2
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 2.84s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.58s)
+    - angle_3/segment_002.mp4 (0.67s)
+    - angle_3/segment_003.mp4 (1.58s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 6.26s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.75s)
+    - angle_17/segment_002.mp4 (3.09s)
+    - angle_17/segment_003.mp4 (0.83s)
+    - angle_17/segment_004.mp4 (0.58s)

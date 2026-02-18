@@ -1,0 +1,68 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Skip_Schumaker_on_Trevor_Rogers_facing_DJ_Herz_mor_744846
+Total Angles Discovered: 5
+Total Segments: 34
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 16
+  Total Duration: 52.72s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.58s)
+    - angle_3/segment_002.mp4 (4.25s)
+    - angle_3/segment_003.mp4 (3.84s)
+    - angle_3/segment_004.mp4 (2.00s)
+    - angle_3/segment_005.mp4 (1.42s)
+    - angle_3/segment_006.mp4 (0.67s)
+    - angle_3/segment_007.mp4 (6.76s)
+    - angle_3/segment_008.mp4 (1.33s)
+    - angle_3/segment_009.mp4 (3.42s)
+    - angle_3/segment_010.mp4 (2.59s)
+    - angle_3/segment_011.mp4 (0.67s)
+    - angle_3/segment_012.mp4 (1.58s)
+    - angle_3/segment_013.mp4 (11.76s)
+    - angle_3/segment_014.mp4 (2.17s)
+    - angle_3/segment_015.mp4 (0.75s)
+    - angle_3/segment_016.mp4 (7.92s)
+
+Angle 9:
+  Segments: 3
+  Total Duration: 2.50s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.92s)
+    - angle_9/segment_002.mp4 (1.00s)
+    - angle_9/segment_003.mp4 (0.58s)
+
+Angle 11:
+  Segments: 1
+  Total Duration: 0.75s
+  Segment Files:
+    - angle_11/segment_001.mp4 (0.75s)
+
+Angle 17:
+  Segments: 12
+  Total Duration: 49.88s
+  Segment Files:
+    - angle_17/segment_001.mp4 (8.84s)
+    - angle_17/segment_002.mp4 (4.17s)
+    - angle_17/segment_003.mp4 (0.58s)
+    - angle_17/segment_004.mp4 (2.59s)
+    - angle_17/segment_005.mp4 (12.35s)
+    - angle_17/segment_006.mp4 (11.26s)
+    - angle_17/segment_007.mp4 (0.58s)
+    - angle_17/segment_008.mp4 (1.84s)
+    - angle_17/segment_009.mp4 (2.09s)
+    - angle_17/segment_010.mp4 (1.33s)
+    - angle_17/segment_011.mp4 (3.09s)
+    - angle_17/segment_012.mp4 (1.17s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 4.34s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.84s)
+    - angle_19/segment_002.mp4 (2.50s)

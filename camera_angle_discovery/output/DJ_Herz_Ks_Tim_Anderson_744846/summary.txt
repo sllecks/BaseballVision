@@ -1,0 +1,16 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: DJ_Herz_Ks_Tim_Anderson_744846
+Total Angles Discovered: 1
+Total Segments: 2
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 2
+  Total Duration: 5.26s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.09s)
+    - angle_3/segment_002.mp4 (3.17s)

@@ -1,0 +1,24 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: An_animated_look_at_Jordan_Westburgs_home_run_747023
+Total Angles Discovered: 2
+Total Segments: 5
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 4
+  Total Duration: 8.60s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.80s)
+    - angle_3/segment_002.mp4 (1.10s)
+    - angle_3/segment_003.mp4 (1.40s)
+    - angle_3/segment_004.mp4 (3.30s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.50s)

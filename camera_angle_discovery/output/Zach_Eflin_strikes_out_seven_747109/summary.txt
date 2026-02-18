@@ -1,0 +1,54 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Zach_Eflin_strikes_out_seven_747109
+Total Angles Discovered: 3
+Total Segments: 30
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 5
+  Total Duration: 4.42s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.75s)
+    - angle_2/segment_002.mp4 (0.75s)
+    - angle_2/segment_003.mp4 (0.50s)
+    - angle_2/segment_004.mp4 (0.58s)
+    - angle_2/segment_005.mp4 (0.83s)
+
+Angle 3:
+  Segments: 15
+  Total Duration: 24.94s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.50s)
+    - angle_3/segment_002.mp4 (1.17s)
+    - angle_3/segment_003.mp4 (1.75s)
+    - angle_3/segment_004.mp4 (0.50s)
+    - angle_3/segment_005.mp4 (1.17s)
+    - angle_3/segment_006.mp4 (0.67s)
+    - angle_3/segment_007.mp4 (1.00s)
+    - angle_3/segment_008.mp4 (0.83s)
+    - angle_3/segment_009.mp4 (1.67s)
+    - angle_3/segment_010.mp4 (4.42s)
+    - angle_3/segment_011.mp4 (3.67s)
+    - angle_3/segment_012.mp4 (0.58s)
+    - angle_3/segment_013.mp4 (0.92s)
+    - angle_3/segment_014.mp4 (1.25s)
+    - angle_3/segment_015.mp4 (4.84s)
+
+Angle 17:
+  Segments: 10
+  Total Duration: 77.33s
+  Segment Files:
+    - angle_17/segment_001.mp4 (13.68s)
+    - angle_17/segment_002.mp4 (10.93s)
+    - angle_17/segment_003.mp4 (1.08s)
+    - angle_17/segment_004.mp4 (2.09s)
+    - angle_17/segment_005.mp4 (6.42s)
+    - angle_17/segment_006.mp4 (11.34s)
+    - angle_17/segment_007.mp4 (7.01s)
+    - angle_17/segment_008.mp4 (5.59s)
+    - angle_17/segment_009.mp4 (7.01s)
+    - angle_17/segment_010.mp4 (12.18s)

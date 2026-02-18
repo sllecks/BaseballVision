@@ -1,0 +1,84 @@
+{
+  "video_name": "Nolan_Arenados_sacrifice_fly_746865",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 6.923583333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.75075,
+          "end_time": 5.171833333333334,
+          "duration": 4.421083333333334,
+          "n_frames": 54
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 7.090416666666667,
+          "end_time": 8.675333333333333,
+          "duration": 1.5849166666666656,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 11.428083333333333,
+          "end_time": 12.345666666666666,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 3,
+      "total_duration": 4.671333333333336,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 5.25525,
+          "end_time": 7.007000000000001,
+          "duration": 1.7517500000000004,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 10.844166666666666,
+          "end_time": 11.344666666666667,
+          "duration": 0.5005000000000006,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_9/segment_003.mp4",
+          "start_time": 12.429083333333333,
+          "end_time": 14.848166666666668,
+          "duration": 2.419083333333335,
+          "n_frames": 30
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 5.338666666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 9.25925,
+          "end_time": 10.76075,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 14.931583333333334,
+          "end_time": 18.76875,
+          "duration": 3.8371666666666666,
+          "n_frames": 47
+        }
+      ]
+    }
+  }
+}

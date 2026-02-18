@@ -1,0 +1,35 @@
+{
+  "video_name": "Kyle_Finnegan_earns_the_save_744839",
+  "n_angles": 2,
+  "total_segments": 2,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 5.171833333333334,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 5.171833333333334,
+          "duration": 5.171833333333334,
+          "n_frames": 63
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 2.0854166666666663,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.25525,
+          "end_time": 7.3406666666666665,
+          "duration": 2.0854166666666663,
+          "n_frames": 26
+        }
+      ]
+    }
+  }
+}

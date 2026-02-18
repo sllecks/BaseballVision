@@ -1,0 +1,49 @@
+{
+  "video_name": "Jameson_Taillon_sidesteps_trouble_with_strikeout_746866",
+  "n_angles": 2,
+  "total_segments": 4,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 2.669333333333333,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.16683333333333333,
+          "end_time": 1.9185833333333333,
+          "duration": 1.75175,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 4.170833333333333,
+          "end_time": 5.088416666666666,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 2.919583333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 4.087416666666667,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 5.422083333333333,
+          "end_time": 6.2562500000000005,
+          "duration": 0.8341666666666674,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

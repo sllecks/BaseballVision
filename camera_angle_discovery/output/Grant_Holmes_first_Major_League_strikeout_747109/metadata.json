@@ -1,0 +1,98 @@
+{
+  "video_name": "Grant_Holmes_first_Major_League_strikeout_747109",
+  "n_angles": 2,
+  "total_segments": 11,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 5,
+      "total_duration": 8.425083333333335,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.25325,
+          "duration": 3.25325,
+          "n_frames": 40
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.75375,
+          "end_time": 4.7547500000000005,
+          "duration": 1.0010000000000003,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 8.341666666666667,
+          "end_time": 10.844166666666666,
+          "duration": 2.5024999999999995,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 11.094416666666667,
+          "end_time": 11.761750000000001,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 14.597916666666666,
+          "end_time": 15.598916666666668,
+          "duration": 1.0010000000000012,
+          "n_frames": 13
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 12.762749999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.422083333333333,
+          "end_time": 8.25825,
+          "duration": 2.836166666666667,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 15.682333333333334,
+          "end_time": 18.435083333333335,
+          "duration": 2.7527500000000007,
+          "n_frames": 34
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.685333333333332,
+          "end_time": 19.185833333333335,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 19.352666666666668,
+          "end_time": 19.853166666666667,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 20.103416666666668,
+          "end_time": 21.354666666666667,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 22.188833333333335,
+          "end_time": 27.110416666666666,
+          "duration": 4.921583333333331,
+          "n_frames": 60
+        }
+      ]
+    }
+  }
+}

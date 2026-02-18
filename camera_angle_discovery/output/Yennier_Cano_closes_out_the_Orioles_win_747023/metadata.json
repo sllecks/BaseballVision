@@ -1,0 +1,56 @@
+{
+  "video_name": "Yennier_Cano_closes_out_the_Orioles_win_747023",
+  "n_angles": 2,
+  "total_segments": 5,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 7.0070000000000014,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.41708333333333336,
+          "end_time": 1.9185833333333333,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 2.4190833333333335,
+          "end_time": 3.9205833333333335,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 15.932583333333334,
+          "end_time": 16.5165,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 17.100416666666668,
+          "end_time": 20.520500000000002,
+          "duration": 3.4200833333333343,
+          "n_frames": 42
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 11.428083333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.0040000000000004,
+          "end_time": 15.432083333333333,
+          "duration": 11.428083333333333,
+          "n_frames": 138
+        }
+      ]
+    }
+  }
+}

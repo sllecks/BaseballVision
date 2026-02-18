@@ -1,0 +1,27 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Jazz_Chisholm_Jrs_incredible_diving_grab_744839
+Total Angles Discovered: 3
+Total Segments: 3
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.08s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 3.17s
+  Segment Files:
+    - angle_9/segment_001.mp4 (3.17s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 21.69s
+  Segment Files:
+    - angle_17/segment_001.mp4 (21.69s)

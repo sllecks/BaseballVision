@@ -1,0 +1,29 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Danny_Jansen_scores_on_double_play_744925
+Total Angles Discovered: 3
+Total Segments: 5
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 2.09s
+  Segment Files:
+    - angle_2/segment_001.mp4 (2.09s)
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.50s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 15.35s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.34s)
+    - angle_17/segment_002.mp4 (2.42s)
+    - angle_17/segment_003.mp4 (10.59s)

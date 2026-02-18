@@ -1,0 +1,25 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: An_animated_look_at_Colton_Cowsers_home_run_747023
+Total Angles Discovered: 2
+Total Segments: 6
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 5.40s
+  Segment Files:
+    - angle_3/segment_001.mp4 (3.00s)
+    - angle_3/segment_002.mp4 (1.80s)
+    - angle_3/segment_003.mp4 (0.60s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 5.60s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.60s)
+    - angle_17/segment_002.mp4 (1.70s)
+    - angle_17/segment_003.mp4 (3.30s)

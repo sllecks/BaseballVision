@@ -1,0 +1,32 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Nolan_Schanuels_first_career_stolen_base_745329
+Total Angles Discovered: 2
+Total Segments: 13
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 7
+  Total Duration: 10.93s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.00s)
+    - angle_3/segment_002.mp4 (5.51s)
+    - angle_3/segment_003.mp4 (0.50s)
+    - angle_3/segment_004.mp4 (0.92s)
+    - angle_3/segment_005.mp4 (0.92s)
+    - angle_3/segment_006.mp4 (0.75s)
+    - angle_3/segment_007.mp4 (1.33s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 9.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.75s)
+    - angle_17/segment_002.mp4 (2.67s)
+    - angle_17/segment_003.mp4 (0.92s)
+    - angle_17/segment_004.mp4 (3.17s)
+    - angle_17/segment_005.mp4 (0.75s)
+    - angle_17/segment_006.mp4 (0.50s)

@@ -1,0 +1,133 @@
+{
+  "video_name": "Ryne_Nelson_strikes_out_five_across_seven_innings_747175",
+  "n_angles": 2,
+  "total_segments": 16,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 10,
+      "total_duration": 19.76975,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5849166666666668,
+          "duration": 1.5849166666666668,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 2.3356666666666666,
+          "end_time": 3.336666666666667,
+          "duration": 1.0010000000000003,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 6.5065,
+          "end_time": 11.594916666666666,
+          "duration": 5.088416666666666,
+          "n_frames": 62
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 14.097416666666668,
+          "end_time": 15.181833333333334,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 15.5155,
+          "end_time": 16.850166666666667,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 19.769750000000002,
+          "end_time": 20.687333333333335,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_007.mp4",
+          "start_time": 21.855166666666666,
+          "end_time": 23.356666666666666,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_008.mp4",
+          "start_time": 25.108416666666667,
+          "end_time": 25.608916666666666,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_009.mp4",
+          "start_time": 25.942583333333335,
+          "end_time": 28.27825,
+          "duration": 2.335666666666665,
+          "n_frames": 29
+        },
+        {
+          "filename": "angle_3/segment_010.mp4",
+          "start_time": 32.78275,
+          "end_time": 37.203833333333336,
+          "duration": 4.4210833333333355,
+          "n_frames": 54
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 12.762750000000006,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.4200833333333334,
+          "end_time": 6.4230833333333335,
+          "duration": 3.003,
+          "n_frames": 37
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.678333333333333,
+          "end_time": 12.679333333333334,
+          "duration": 1.0010000000000012,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 12.929583333333333,
+          "end_time": 14.014000000000001,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 16.933583333333335,
+          "end_time": 19.352666666666668,
+          "duration": 2.419083333333333,
+          "n_frames": 30
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 23.440083333333334,
+          "end_time": 25.025000000000002,
+          "duration": 1.5849166666666683,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 29.029,
+          "end_time": 32.699333333333335,
+          "duration": 3.6703333333333354,
+          "n_frames": 45
+        }
+      ]
+    }
+  }
+}

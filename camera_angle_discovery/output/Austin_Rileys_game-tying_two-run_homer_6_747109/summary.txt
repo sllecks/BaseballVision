@@ -1,0 +1,46 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Austin_Rileys_game-tying_two-run_homer_6_747109
+Total Angles Discovered: 5
+Total Segments: 12
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 2
+  Total Duration: 1.75s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.50s)
+    - angle_3/segment_002.mp4 (1.25s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 0.75s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.75s)
+
+Angle 11:
+  Segments: 2
+  Total Duration: 2.25s
+  Segment Files:
+    - angle_11/segment_001.mp4 (1.42s)
+    - angle_11/segment_002.mp4 (0.83s)
+
+Angle 14:
+  Segments: 1
+  Total Duration: 0.75s
+  Segment Files:
+    - angle_14/segment_001.mp4 (0.75s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 17.85s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.09s)
+    - angle_17/segment_002.mp4 (0.58s)
+    - angle_17/segment_003.mp4 (0.58s)
+    - angle_17/segment_004.mp4 (13.01s)
+    - angle_17/segment_005.mp4 (0.50s)
+    - angle_17/segment_006.mp4 (1.08s)

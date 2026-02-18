@@ -1,0 +1,36 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Jose_Siris_go-ahead_homer_8_747109
+Total Angles Discovered: 4
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.67s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_9/segment_001.mp4 (2.92s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 1.25s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.25s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 21.52s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.58s)
+    - angle_17/segment_002.mp4 (16.60s)
+    - angle_17/segment_003.mp4 (2.92s)
+    - angle_17/segment_004.mp4 (1.42s)

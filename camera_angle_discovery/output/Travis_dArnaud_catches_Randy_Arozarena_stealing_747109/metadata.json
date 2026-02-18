@@ -1,0 +1,112 @@
+{
+  "video_name": "Travis_dArnaud_catches_Randy_Arozarena_stealing_747109",
+  "n_angles": 3,
+  "total_segments": 12,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.5005,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.25025000000000003,
+          "end_time": 0.75075,
+          "duration": 0.5005,
+          "n_frames": 7
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 5,
+      "total_duration": 8.174833333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 1.3346666666666667,
+          "end_time": 3.5869166666666668,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 5.171833333333334,
+          "end_time": 7.9245833333333335,
+          "duration": 2.75275,
+          "n_frames": 34
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 10.677333333333333,
+          "end_time": 12.846166666666667,
+          "duration": 2.1688333333333336,
+          "n_frames": 27
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 14.931583333333334,
+          "end_time": 15.432083333333333,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 21.187833333333334,
+          "end_time": 21.688333333333333,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 11.177833333333332,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.587916666666667,
+          "end_time": 5.088416666666666,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 8.008000000000001,
+          "end_time": 10.593916666666667,
+          "duration": 2.585916666666666,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 12.929583333333333,
+          "end_time": 13.5135,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 13.76375,
+          "end_time": 14.848166666666668,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 15.5155,
+          "end_time": 21.104416666666665,
+          "duration": 5.588916666666666,
+          "n_frames": 68
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 21.77175,
+          "end_time": 22.605916666666666,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

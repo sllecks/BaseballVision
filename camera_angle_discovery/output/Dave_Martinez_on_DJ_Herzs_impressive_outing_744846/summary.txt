@@ -1,0 +1,53 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Dave_Martinez_on_DJ_Herzs_impressive_outing_744846
+Total Angles Discovered: 5
+Total Segments: 19
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 12
+  Total Duration: 57.39s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+    - angle_3/segment_002.mp4 (8.59s)
+    - angle_3/segment_003.mp4 (2.25s)
+    - angle_3/segment_004.mp4 (14.85s)
+    - angle_3/segment_005.mp4 (2.92s)
+    - angle_3/segment_006.mp4 (1.17s)
+    - angle_3/segment_007.mp4 (11.51s)
+    - angle_3/segment_008.mp4 (4.34s)
+    - angle_3/segment_009.mp4 (3.75s)
+    - angle_3/segment_010.mp4 (2.34s)
+    - angle_3/segment_011.mp4 (4.00s)
+    - angle_3/segment_012.mp4 (0.92s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.42s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.42s)
+
+Angle 11:
+  Segments: 1
+  Total Duration: 0.67s
+  Segment Files:
+    - angle_11/segment_001.mp4 (0.67s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 18.02s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.34s)
+    - angle_17/segment_002.mp4 (6.17s)
+    - angle_17/segment_003.mp4 (3.92s)
+    - angle_17/segment_004.mp4 (5.59s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 1.17s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.17s)

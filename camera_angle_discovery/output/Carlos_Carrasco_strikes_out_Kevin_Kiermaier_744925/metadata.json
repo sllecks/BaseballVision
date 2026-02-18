@@ -1,0 +1,28 @@
+{
+  "video_name": "Carlos_Carrasco_strikes_out_Kevin_Kiermaier_744925",
+  "n_angles": 1,
+  "total_segments": 2,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 6.172833333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 5.005,
+          "duration": 5.005,
+          "n_frames": 61
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.2562500000000005,
+          "end_time": 7.424083333333334,
+          "duration": 1.1678333333333333,
+          "n_frames": 15
+        }
+      ]
+    }
+  }
+}

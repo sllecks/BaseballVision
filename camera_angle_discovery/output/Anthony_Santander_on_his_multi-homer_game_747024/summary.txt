@@ -1,0 +1,33 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Anthony_Santander_on_his_multi-homer_game_747024
+Total Angles Discovered: 3
+Total Segments: 9
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.75s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 125.38s
+  Segment Files:
+    - angle_17/segment_001.mp4 (20.60s)
+    - angle_17/segment_002.mp4 (4.00s)
+    - angle_17/segment_003.mp4 (2.50s)
+    - angle_17/segment_004.mp4 (1.17s)
+    - angle_17/segment_005.mp4 (0.58s)
+    - angle_17/segment_006.mp4 (96.51s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.17s)
+    - angle_19/segment_002.mp4 (0.50s)

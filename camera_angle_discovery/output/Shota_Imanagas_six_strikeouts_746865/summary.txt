@@ -1,0 +1,61 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Shota_Imanagas_six_strikeouts_746865
+Total Angles Discovered: 3
+Total Segments: 37
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 13
+  Total Duration: 18.69s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.42s)
+    - angle_3/segment_002.mp4 (1.50s)
+    - angle_3/segment_003.mp4 (0.67s)
+    - angle_3/segment_004.mp4 (0.58s)
+    - angle_3/segment_005.mp4 (0.58s)
+    - angle_3/segment_006.mp4 (1.08s)
+    - angle_3/segment_007.mp4 (6.92s)
+    - angle_3/segment_008.mp4 (0.92s)
+    - angle_3/segment_009.mp4 (1.25s)
+    - angle_3/segment_010.mp4 (0.50s)
+    - angle_3/segment_011.mp4 (1.17s)
+    - angle_3/segment_012.mp4 (0.92s)
+    - angle_3/segment_013.mp4 (1.17s)
+
+Angle 17:
+  Segments: 23
+  Total Duration: 54.97s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.17s)
+    - angle_17/segment_002.mp4 (1.00s)
+    - angle_17/segment_003.mp4 (2.67s)
+    - angle_17/segment_004.mp4 (3.59s)
+    - angle_17/segment_005.mp4 (0.50s)
+    - angle_17/segment_006.mp4 (1.33s)
+    - angle_17/segment_007.mp4 (0.50s)
+    - angle_17/segment_008.mp4 (2.00s)
+    - angle_17/segment_009.mp4 (2.59s)
+    - angle_17/segment_010.mp4 (3.92s)
+    - angle_17/segment_011.mp4 (0.75s)
+    - angle_17/segment_012.mp4 (3.75s)
+    - angle_17/segment_013.mp4 (2.17s)
+    - angle_17/segment_014.mp4 (1.08s)
+    - angle_17/segment_015.mp4 (0.50s)
+    - angle_17/segment_016.mp4 (0.92s)
+    - angle_17/segment_017.mp4 (2.34s)
+    - angle_17/segment_018.mp4 (0.75s)
+    - angle_17/segment_019.mp4 (3.67s)
+    - angle_17/segment_020.mp4 (0.83s)
+    - angle_17/segment_021.mp4 (2.00s)
+    - angle_17/segment_022.mp4 (6.51s)
+    - angle_17/segment_023.mp4 (8.43s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.67s)

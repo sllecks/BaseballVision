@@ -1,0 +1,77 @@
+{
+  "video_name": "Ildemaro_Vargas_sliding_catch_744846",
+  "n_angles": 4,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 3.75375,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.6693333333333333,
+          "duration": 2.6693333333333333,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.0864166666666666,
+          "end_time": 4.170833333333333,
+          "duration": 1.0844166666666668,
+          "n_frames": 14
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 0.5839166666666671,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 4.921583333333333,
+          "end_time": 5.5055000000000005,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 0.5004999999999997,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 5.588916666666667,
+          "end_time": 6.089416666666667,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 16.26625,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.007000000000001,
+          "end_time": 18.184833333333334,
+          "duration": 11.177833333333332,
+          "n_frames": 135
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 18.601916666666668,
+          "end_time": 23.690333333333335,
+          "duration": 5.088416666666667,
+          "n_frames": 62
+        }
+      ]
+    }
+  }
+}

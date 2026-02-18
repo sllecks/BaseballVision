@@ -1,0 +1,56 @@
+{
+  "video_name": "Analyzing_Adley_Rutschmans_home_run_through_bat_tr_747023",
+  "n_angles": 2,
+  "total_segments": 5,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 9.4,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.5,
+          "duration": 3.5,
+          "n_frames": 36
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.9,
+          "end_time": 5.2,
+          "duration": 1.3000000000000003,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 6.6,
+          "end_time": 7.7,
+          "duration": 1.1000000000000005,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 8.0,
+          "end_time": 11.5,
+          "duration": 3.5,
+          "n_frames": 36
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 0.6000000000000005,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.3,
+          "end_time": 5.9,
+          "duration": 0.6000000000000005,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

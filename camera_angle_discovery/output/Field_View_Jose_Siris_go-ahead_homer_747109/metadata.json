@@ -1,0 +1,35 @@
+{
+  "video_name": "Field_View_Jose_Siris_go-ahead_homer_747109",
+  "n_angles": 1,
+  "total_segments": 3,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 27.027,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 10.343666666666667,
+          "duration": 10.343666666666667,
+          "n_frames": 125
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.761750000000001,
+          "end_time": 17.517500000000002,
+          "duration": 5.755750000000001,
+          "n_frames": 70
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 17.851166666666668,
+          "end_time": 28.778750000000002,
+          "duration": 10.927583333333335,
+          "n_frames": 132
+        }
+      ]
+    }
+  }
+}

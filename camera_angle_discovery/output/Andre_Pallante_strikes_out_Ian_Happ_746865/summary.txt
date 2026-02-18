@@ -1,0 +1,28 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Andre_Pallante_strikes_out_Ian_Happ_746865
+Total Angles Discovered: 3
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 3.09s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.92s)
+    - angle_2/segment_002.mp4 (1.17s)
+
+Angle 3:
+  Segments: 1
+  Total Duration: 0.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.67s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.08s)

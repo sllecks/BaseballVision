@@ -1,0 +1,77 @@
+{
+  "video_name": "Dane_Myers_reaching_grab_744846",
+  "n_angles": 3,
+  "total_segments": 7,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.0010000000000001,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.75075,
+          "end_time": 1.7517500000000001,
+          "duration": 1.0010000000000001,
+          "n_frames": 13
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 2.9195833333333328,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 1.8351666666666666,
+          "end_time": 3.75375,
+          "duration": 1.9185833333333335,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 12.012,
+          "end_time": 13.013,
+          "duration": 1.0009999999999994,
+          "n_frames": 13
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 21.77175,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.170833333333333,
+          "end_time": 6.4230833333333335,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 7.3406666666666665,
+          "end_time": 10.427083333333334,
+          "duration": 3.0864166666666675,
+          "n_frames": 38
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 10.844166666666666,
+          "end_time": 11.928583333333334,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 13.096416666666666,
+          "end_time": 28.445083333333333,
+          "duration": 15.348666666666666,
+          "n_frames": 185
+        }
+      ]
+    }
+  }
+}

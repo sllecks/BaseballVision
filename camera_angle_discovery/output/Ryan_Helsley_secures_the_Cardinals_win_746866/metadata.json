@@ -1,0 +1,84 @@
+{
+  "video_name": "Ryan_Helsley_secures_the_Cardinals_win_746866",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 13.179833333333335,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5849166666666668,
+          "duration": 1.5849166666666668,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.25325,
+          "end_time": 4.921583333333333,
+          "duration": 1.6683333333333334,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 8.675333333333333,
+          "duration": 3.169833333333332,
+          "n_frames": 39
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 9.926583333333333,
+          "end_time": 12.178833333333333,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 13.179833333333333,
+          "end_time": 17.684333333333335,
+          "duration": 4.504500000000002,
+          "n_frames": 55
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333331,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 1.6683333333333334,
+          "end_time": 2.3356666666666666,
+          "duration": 0.6673333333333331,
+          "n_frames": 9
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 1.5849166666666648,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 8.758750000000001,
+          "end_time": 9.843166666666667,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 12.595916666666668,
+          "end_time": 13.096416666666666,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

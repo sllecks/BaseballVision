@@ -1,0 +1,34 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Yandy_Díaz_extends_on-base_streak_to_19_games_747109
+Total Angles Discovered: 3
+Total Segments: 10
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 4
+  Total Duration: 4.25s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.92s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (0.67s)
+    - angle_3/segment_004.mp4 (0.75s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.58s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 8.84s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.83s)
+    - angle_17/segment_002.mp4 (3.34s)
+    - angle_17/segment_003.mp4 (2.09s)
+    - angle_17/segment_004.mp4 (0.75s)
+    - angle_17/segment_005.mp4 (1.84s)

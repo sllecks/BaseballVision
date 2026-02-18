@@ -1,0 +1,41 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Yariel_Rodríguez_Ks_seven_747175
+Total Angles Discovered: 2
+Total Segments: 22
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 13
+  Total Duration: 16.77s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.33s)
+    - angle_3/segment_002.mp4 (0.75s)
+    - angle_3/segment_003.mp4 (1.17s)
+    - angle_3/segment_004.mp4 (1.00s)
+    - angle_3/segment_005.mp4 (0.50s)
+    - angle_3/segment_006.mp4 (0.92s)
+    - angle_3/segment_007.mp4 (2.00s)
+    - angle_3/segment_008.mp4 (0.58s)
+    - angle_3/segment_009.mp4 (1.67s)
+    - angle_3/segment_010.mp4 (2.09s)
+    - angle_3/segment_011.mp4 (1.33s)
+    - angle_3/segment_012.mp4 (1.84s)
+    - angle_3/segment_013.mp4 (1.58s)
+
+Angle 17:
+  Segments: 9
+  Total Duration: 20.19s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.17s)
+    - angle_17/segment_002.mp4 (0.50s)
+    - angle_17/segment_003.mp4 (0.58s)
+    - angle_17/segment_004.mp4 (1.08s)
+    - angle_17/segment_005.mp4 (6.17s)
+    - angle_17/segment_006.mp4 (2.25s)
+    - angle_17/segment_007.mp4 (3.84s)
+    - angle_17/segment_008.mp4 (0.83s)
+    - angle_17/segment_009.mp4 (3.75s)

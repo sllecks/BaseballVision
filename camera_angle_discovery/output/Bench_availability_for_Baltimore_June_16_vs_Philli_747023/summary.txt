@@ -1,0 +1,23 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Bench_availability_for_Baltimore_June_16_vs_Philli_747023
+Total Angles Discovered: 2
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 16:
+  Segments: 2
+  Total Duration: 4.30s
+  Segment Files:
+    - angle_16/segment_001.mp4 (0.60s)
+    - angle_16/segment_002.mp4 (3.70s)
+
+Angle 17:
+  Segments: 2
+  Total Duration: 2.20s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.20s)
+    - angle_17/segment_002.mp4 (1.00s)

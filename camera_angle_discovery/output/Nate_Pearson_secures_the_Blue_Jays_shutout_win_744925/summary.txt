@@ -1,0 +1,44 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Nate_Pearson_secures_the_Blue_Jays_shutout_win_744925
+Total Angles Discovered: 5
+Total Segments: 10
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 0.83s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.83s)
+
+Angle 3:
+  Segments: 4
+  Total Duration: 3.00s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.00s)
+    - angle_3/segment_002.mp4 (0.58s)
+    - angle_3/segment_003.mp4 (0.75s)
+    - angle_3/segment_004.mp4 (0.67s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.50s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 0.83s
+  Segment Files:
+    - angle_10/segment_001.mp4 (0.83s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 25.28s
+  Segment Files:
+    - angle_17/segment_001.mp4 (8.09s)
+    - angle_17/segment_002.mp4 (6.84s)
+    - angle_17/segment_003.mp4 (10.34s)

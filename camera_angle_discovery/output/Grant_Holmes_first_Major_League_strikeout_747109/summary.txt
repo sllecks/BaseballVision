@@ -1,0 +1,30 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Grant_Holmes_first_Major_League_strikeout_747109
+Total Angles Discovered: 2
+Total Segments: 11
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 5
+  Total Duration: 8.43s
+  Segment Files:
+    - angle_3/segment_001.mp4 (3.25s)
+    - angle_3/segment_002.mp4 (1.00s)
+    - angle_3/segment_003.mp4 (2.50s)
+    - angle_3/segment_004.mp4 (0.67s)
+    - angle_3/segment_005.mp4 (1.00s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 12.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.84s)
+    - angle_17/segment_002.mp4 (2.75s)
+    - angle_17/segment_003.mp4 (0.50s)
+    - angle_17/segment_004.mp4 (0.50s)
+    - angle_17/segment_005.mp4 (1.25s)
+    - angle_17/segment_006.mp4 (4.92s)

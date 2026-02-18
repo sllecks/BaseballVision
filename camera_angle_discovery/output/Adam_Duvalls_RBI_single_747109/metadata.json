@@ -1,0 +1,98 @@
+{
+  "video_name": "Adam_Duvalls_RBI_single_747109",
+  "n_angles": 4,
+  "total_segments": 9,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 3.003,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.08341666666666667,
+          "end_time": 3.0864166666666666,
+          "duration": 3.003,
+          "n_frames": 37
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 4.004,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.5869166666666668,
+          "end_time": 4.087416666666667,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 5.171833333333334,
+          "end_time": 5.6723333333333334,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 12.178833333333333,
+          "duration": 3.003,
+          "n_frames": 37
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.1678333333333333,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 5.75575,
+          "end_time": 6.923583333333333,
+          "duration": 1.1678333333333333,
+          "n_frames": 15
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 8.091416666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.25725,
+          "end_time": 7.841166666666667,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 8.091416666666667,
+          "end_time": 8.591916666666666,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 12.26225,
+          "end_time": 15.098416666666667,
+          "duration": 2.836166666666667,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 15.682333333333334,
+          "end_time": 19.853166666666667,
+          "duration": 4.1708333333333325,
+          "n_frames": 51
+        }
+      ]
+    }
+  }
+}

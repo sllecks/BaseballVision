@@ -1,0 +1,35 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Adley_Rutschmans_sacrifice_fly_747024
+Total Angles Discovered: 3
+Total Segments: 11
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 5
+  Total Duration: 12.26s
+  Segment Files:
+    - angle_3/segment_001.mp4 (3.25s)
+    - angle_3/segment_002.mp4 (0.58s)
+    - angle_3/segment_003.mp4 (1.17s)
+    - angle_3/segment_004.mp4 (1.84s)
+    - angle_3/segment_005.mp4 (5.42s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 10.09s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.75s)
+    - angle_17/segment_002.mp4 (1.58s)
+    - angle_17/segment_003.mp4 (1.92s)
+    - angle_17/segment_004.mp4 (2.84s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 2.17s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.25s)
+    - angle_19/segment_002.mp4 (0.92s)

@@ -1,0 +1,28 @@
+{
+  "video_name": "DJ_Herz_Ks_Tim_Anderson_744846",
+  "n_angles": 1,
+  "total_segments": 2,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 5.25525,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0854166666666667,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.0864166666666666,
+          "end_time": 6.2562500000000005,
+          "duration": 3.169833333333334,
+          "n_frames": 39
+        }
+      ]
+    }
+  }
+}

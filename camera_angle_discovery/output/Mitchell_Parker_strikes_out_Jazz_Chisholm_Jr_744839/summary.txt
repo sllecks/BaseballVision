@@ -1,0 +1,15 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Mitchell_Parker_strikes_out_Jazz_Chisholm_Jr_744839
+Total Angles Discovered: 1
+Total Segments: 1
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 6.17s
+  Segment Files:
+    - angle_3/segment_001.mp4 (6.17s)

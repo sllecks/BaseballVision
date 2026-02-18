@@ -1,0 +1,70 @@
+{
+  "video_name": "Michael_Buschs_RBI_single_746866",
+  "n_angles": 3,
+  "total_segments": 6,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 2.1688333333333336,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.41708333333333336,
+          "end_time": 1.9185833333333333,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 2.168833333333333,
+          "end_time": 2.8361666666666667,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 13.76375,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.919583333333333,
+          "end_time": 11.177833333333334,
+          "duration": 8.25825,
+          "n_frames": 100
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 12.012,
+          "end_time": 15.682333333333334,
+          "duration": 3.6703333333333337,
+          "n_frames": 45
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 16.766750000000002,
+          "end_time": 18.601916666666668,
+          "duration": 1.835166666666666,
+          "n_frames": 23
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 0.917583333333333,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 15.76575,
+          "end_time": 16.683333333333334,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    }
+  }
+}

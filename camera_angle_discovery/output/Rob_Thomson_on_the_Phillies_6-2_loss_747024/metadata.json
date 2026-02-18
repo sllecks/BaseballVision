@@ -1,0 +1,140 @@
+{
+  "video_name": "Rob_Thomson_on_the_Phillies_6-2_loss_747024",
+  "n_angles": 2,
+  "total_segments": 17,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 8,
+      "total_duration": 61.72833333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 15.015,
+          "duration": 15.015,
+          "n_frames": 181
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 18.601916666666668,
+          "end_time": 19.102416666666667,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 20.27025,
+          "end_time": 20.77075,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 21.938583333333334,
+          "end_time": 23.27325,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 27.110416666666666,
+          "end_time": 39.78975,
+          "duration": 12.679333333333332,
+          "n_frames": 153
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 43.46008333333334,
+          "end_time": 46.29625,
+          "duration": 2.8361666666666636,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 47.5475,
+          "end_time": 56.639916666666664,
+          "duration": 9.092416666666665,
+          "n_frames": 110
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 56.890166666666666,
+          "end_time": 76.65991666666667,
+          "duration": 19.76975000000001,
+          "n_frames": 238
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 9,
+      "total_duration": 8.675333333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 15.098416666666667,
+          "end_time": 16.26625,
+          "duration": 1.1678333333333324,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 16.766750000000002,
+          "end_time": 17.684333333333335,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 19.185833333333335,
+          "end_time": 19.686333333333334,
+          "duration": 0.5004999999999988,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 20.854166666666668,
+          "end_time": 21.5215,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 24.024,
+          "end_time": 25.5255,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 26.27625,
+          "end_time": 27.027,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_007.mp4",
+          "start_time": 40.45708333333334,
+          "end_time": 41.37466666666667,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_008.mp4",
+          "start_time": 41.624916666666664,
+          "end_time": 43.376666666666665,
+          "duration": 1.7517500000000013,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_3/segment_009.mp4",
+          "start_time": 46.96358333333333,
+          "end_time": 47.464083333333335,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        }
+      ]
+    }
+  }
+}

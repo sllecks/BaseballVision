@@ -1,0 +1,47 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Stephen_Vogt_discusses_the_Guardians_5-0_loss_744925
+Total Angles Discovered: 3
+Total Segments: 23
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 6
+  Total Duration: 6.51s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.92s)
+    - angle_3/segment_002.mp4 (0.58s)
+    - angle_3/segment_003.mp4 (1.33s)
+    - angle_3/segment_004.mp4 (0.50s)
+    - angle_3/segment_005.mp4 (0.67s)
+    - angle_3/segment_006.mp4 (1.50s)
+
+Angle 9:
+  Segments: 3
+  Total Duration: 2.59s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.67s)
+    - angle_9/segment_002.mp4 (0.50s)
+    - angle_9/segment_003.mp4 (1.42s)
+
+Angle 17:
+  Segments: 14
+  Total Duration: 54.14s
+  Segment Files:
+    - angle_17/segment_001.mp4 (14.43s)
+    - angle_17/segment_002.mp4 (0.58s)
+    - angle_17/segment_003.mp4 (12.68s)
+    - angle_17/segment_004.mp4 (0.92s)
+    - angle_17/segment_005.mp4 (0.92s)
+    - angle_17/segment_006.mp4 (1.17s)
+    - angle_17/segment_007.mp4 (6.51s)
+    - angle_17/segment_008.mp4 (0.67s)
+    - angle_17/segment_009.mp4 (1.67s)
+    - angle_17/segment_010.mp4 (6.34s)
+    - angle_17/segment_011.mp4 (0.50s)
+    - angle_17/segment_012.mp4 (1.58s)
+    - angle_17/segment_013.mp4 (2.92s)
+    - angle_17/segment_014.mp4 (3.25s)

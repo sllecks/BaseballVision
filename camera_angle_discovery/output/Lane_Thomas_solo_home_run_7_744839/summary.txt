@@ -1,0 +1,54 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Lane_Thomas_solo_home_run_7_744839
+Total Angles Discovered: 6
+Total Segments: 15
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 3.34s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.67s)
+    - angle_3/segment_002.mp4 (1.17s)
+    - angle_3/segment_003.mp4 (0.50s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.67s)
+    - angle_9/segment_002.mp4 (0.83s)
+
+Angle 10:
+  Segments: 2
+  Total Duration: 2.34s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.42s)
+    - angle_10/segment_002.mp4 (0.92s)
+
+Angle 11:
+  Segments: 4
+  Total Duration: 3.17s
+  Segment Files:
+    - angle_11/segment_001.mp4 (0.75s)
+    - angle_11/segment_002.mp4 (0.50s)
+    - angle_11/segment_003.mp4 (1.42s)
+    - angle_11/segment_004.mp4 (0.50s)
+
+Angle 12:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_12/segment_001.mp4 (0.50s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 10.34s
+  Segment Files:
+    - angle_17/segment_001.mp4 (6.84s)
+    - angle_17/segment_002.mp4 (0.92s)
+    - angle_17/segment_003.mp4 (2.59s)

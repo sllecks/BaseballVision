@@ -1,0 +1,40 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Corbin_Burnes_outing_against_the_Phillies_747023
+Total Angles Discovered: 4
+Total Segments: 11
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 1.30s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.30s)
+
+Angle 3:
+  Segments: 6
+  Total Duration: 12.50s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.50s)
+    - angle_3/segment_002.mp4 (6.60s)
+    - angle_3/segment_003.mp4 (0.80s)
+    - angle_3/segment_004.mp4 (2.40s)
+    - angle_3/segment_005.mp4 (0.50s)
+    - angle_3/segment_006.mp4 (0.70s)
+
+Angle 9:
+  Segments: 3
+  Total Duration: 4.30s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.50s)
+    - angle_9/segment_002.mp4 (2.10s)
+    - angle_9/segment_003.mp4 (1.70s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 2.00s
+  Segment Files:
+    - angle_10/segment_001.mp4 (2.00s)

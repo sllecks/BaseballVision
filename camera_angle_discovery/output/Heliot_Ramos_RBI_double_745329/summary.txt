@@ -1,0 +1,27 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Heliot_Ramos_RBI_double_745329
+Total Angles Discovered: 2
+Total Segments: 8
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 4
+  Total Duration: 10.09s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.17s)
+    - angle_3/segment_002.mp4 (2.59s)
+    - angle_3/segment_003.mp4 (3.75s)
+    - angle_3/segment_004.mp4 (2.59s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 12.68s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.50s)
+    - angle_17/segment_002.mp4 (3.59s)
+    - angle_17/segment_003.mp4 (4.67s)
+    - angle_17/segment_004.mp4 (2.92s)

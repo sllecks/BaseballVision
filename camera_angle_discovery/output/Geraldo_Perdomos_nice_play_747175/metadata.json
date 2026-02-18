@@ -1,0 +1,63 @@
+{
+  "video_name": "Geraldo_Perdomos_nice_play_747175",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 4.7547500000000005,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.5025,
+          "duration": 2.5025,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.6703333333333332,
+          "end_time": 4.170833333333333,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 6.589916666666666,
+          "end_time": 8.341666666666667,
+          "duration": 1.7517500000000004,
+          "n_frames": 22
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 11.428083333333335,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.585916666666667,
+          "end_time": 3.4200833333333334,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 4.25425,
+          "end_time": 6.5065,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 8.425083333333333,
+          "end_time": 16.766750000000002,
+          "duration": 8.341666666666669,
+          "n_frames": 101
+        }
+      ]
+    }
+  }
+}

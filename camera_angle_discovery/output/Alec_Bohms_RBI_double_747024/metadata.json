@@ -1,0 +1,84 @@
+{
+  "video_name": "Alec_Bohms_RBI_double_747024",
+  "n_angles": 2,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 19.853166666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 4.0040000000000004,
+          "duration": 4.0040000000000004,
+          "n_frames": 49
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.589916666666666,
+          "end_time": 8.758750000000001,
+          "duration": 2.1688333333333345,
+          "n_frames": 27
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 9.009,
+          "end_time": 9.75975,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 10.01,
+          "end_time": 10.927583333333333,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 11.928583333333334,
+          "end_time": 17.183833333333332,
+          "duration": 5.255249999999998,
+          "n_frames": 64
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 19.686333333333334,
+          "end_time": 26.443083333333334,
+          "duration": 6.75675,
+          "n_frames": 82
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 4.087416666666664,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.588916666666667,
+          "end_time": 6.5065,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 11.011000000000001,
+          "end_time": 11.845166666666668,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 17.26725,
+          "end_time": 19.602916666666665,
+          "duration": 2.335666666666665,
+          "n_frames": 29
+        }
+      ]
+    }
+  }
+}

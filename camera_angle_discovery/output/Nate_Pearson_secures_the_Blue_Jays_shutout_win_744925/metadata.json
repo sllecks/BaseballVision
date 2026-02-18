@@ -1,0 +1,112 @@
+{
+  "video_name": "Nate_Pearson_secures_the_Blue_Jays_shutout_win_744925",
+  "n_angles": 5,
+  "total_segments": 10,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 3.002999999999995,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.6673333333333333,
+          "end_time": 1.6683333333333334,
+          "duration": 1.0010000000000001,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.838166666666667,
+          "end_time": 5.422083333333333,
+          "duration": 0.5839166666666662,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 35.61891666666667,
+          "end_time": 36.36966666666667,
+          "duration": 0.7507499999999965,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 36.87016666666667,
+          "end_time": 37.5375,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.8341666666666667,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 1.7517500000000001,
+          "end_time": 2.585916666666667,
+          "duration": 0.8341666666666667,
+          "n_frames": 11
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 25.275250000000007,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 6.339666666666667,
+          "end_time": 14.431083333333333,
+          "duration": 8.091416666666667,
+          "n_frames": 98
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 14.764750000000001,
+          "end_time": 21.604916666666668,
+          "duration": 6.840166666666667,
+          "n_frames": 83
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 22.27225,
+          "end_time": 32.61591666666667,
+          "duration": 10.343666666666671,
+          "n_frames": 125
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 0.8341666666666683,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 32.699333333333335,
+          "end_time": 33.533500000000004,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.5015,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 33.78375,
+          "end_time": 35.28525,
+          "duration": 1.5015,
+          "n_frames": 19
+        }
+      ]
+    }
+  }
+}

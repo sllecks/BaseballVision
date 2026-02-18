@@ -1,0 +1,126 @@
+{
+  "video_name": "Austin_Rileys_game-tying_two-run_homer_6_747109",
+  "n_angles": 5,
+  "total_segments": 12,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 17.851166666666668,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.0854166666666667,
+          "duration": 2.0854166666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 5.338666666666667,
+          "end_time": 5.922583333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 9.342666666666666,
+          "end_time": 9.926583333333333,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 10.76075,
+          "end_time": 23.77375,
+          "duration": 13.013,
+          "n_frames": 157
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 25.442083333333333,
+          "end_time": 25.942583333333335,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 28.028000000000002,
+          "end_time": 29.112416666666668,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 1.7517500000000004,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.25225,
+          "end_time": 2.7527500000000003,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.5869166666666668,
+          "end_time": 4.838166666666667,
+          "duration": 1.2512500000000002,
+          "n_frames": 16
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 6.006,
+          "end_time": 6.75675,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "11": {
+      "angle_id": 11,
+      "n_segments": 2,
+      "total_duration": 2.2522499999999983,
+      "segments": [
+        {
+          "filename": "angle_11/segment_001.mp4",
+          "start_time": 7.674333333333333,
+          "end_time": 9.092416666666667,
+          "duration": 1.4180833333333336,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_11/segment_002.mp4",
+          "start_time": 23.857166666666668,
+          "end_time": 24.691333333333333,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        }
+      ]
+    },
+    "14": {
+      "angle_id": 14,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_14/segment_001.mp4",
+          "start_time": 27.193833333333334,
+          "end_time": 27.944583333333334,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    }
+  }
+}

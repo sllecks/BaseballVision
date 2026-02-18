@@ -1,0 +1,84 @@
+{
+  "video_name": "Brayan_Rocchios_barehanded_play_744925",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.9185833333333333,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.9185833333333333,
+          "duration": 1.9185833333333333,
+          "n_frames": 24
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 15.181833333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 4.25425,
+          "duration": 2.2522499999999996,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 9.676333333333334,
+          "end_time": 13.013,
+          "duration": 3.336666666666666,
+          "n_frames": 41
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 14.597916666666666,
+          "end_time": 19.26925,
+          "duration": 4.671333333333333,
+          "n_frames": 57
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 19.602916666666665,
+          "end_time": 22.5225,
+          "duration": 2.9195833333333354,
+          "n_frames": 36
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 22.856166666666667,
+          "end_time": 24.858166666666666,
+          "duration": 2.001999999999999,
+          "n_frames": 25
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 5.422083333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 4.7547500000000005,
+          "end_time": 9.592916666666667,
+          "duration": 4.838166666666667,
+          "n_frames": 59
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 13.263250000000001,
+          "end_time": 13.847166666666666,
+          "duration": 0.5839166666666653,
+          "n_frames": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "video_name": "Shota_Imanaga_escapes_trouble_with_strikeout_746865",
+  "n_angles": 3,
+  "total_segments": 6,
+  "angles": {
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 0.9175833333333336,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 1.8351666666666666,
+          "end_time": 2.7527500000000003,
+          "duration": 0.9175833333333336,
+          "n_frames": 12
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 16.59991666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.6703333333333332,
+          "end_time": 4.5045,
+          "duration": 0.834166666666667,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 4.921583333333333,
+          "end_time": 5.6723333333333334,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 6.923583333333333,
+          "end_time": 13.5135,
+          "duration": 6.589916666666667,
+          "n_frames": 80
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 13.847166666666666,
+          "end_time": 22.27225,
+          "duration": 8.425083333333333,
+          "n_frames": 102
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 1.0844166666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.75575,
+          "end_time": 6.840166666666667,
+          "duration": 1.0844166666666668,
+          "n_frames": 14
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video_name": "Gunnar_Hendersons_home_run_through_bat_tracking_da_747023",
+  "n_angles": 2,
+  "total_segments": 4,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 6.9,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.0,
+          "duration": 3.0,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.4,
+          "end_time": 4.9,
+          "duration": 1.5000000000000004,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 5.4,
+          "end_time": 7.8,
+          "duration": 2.3999999999999995,
+          "n_frames": 25
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 3.5999999999999996,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.9,
+          "end_time": 11.5,
+          "duration": 3.5999999999999996,
+          "n_frames": 37
+        }
+      ]
+    }
+  }
+}

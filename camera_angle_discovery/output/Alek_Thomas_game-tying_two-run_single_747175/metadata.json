@@ -1,0 +1,63 @@
+{
+  "video_name": "Alek_Thomas_game-tying_two-run_single_747175",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 5.8391666666666655,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.25025000000000003,
+          "end_time": 1.5015,
+          "duration": 1.25125,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 7.090416666666667,
+          "end_time": 8.5085,
+          "duration": 1.4180833333333327,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 13.680333333333333,
+          "end_time": 14.431083333333333,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 14.597916666666666,
+          "end_time": 17.017,
+          "duration": 2.419083333333333,
+          "n_frames": 30
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 9.843166666666669,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.8351666666666666,
+          "end_time": 7.007000000000001,
+          "duration": 5.171833333333334,
+          "n_frames": 63
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 8.591916666666666,
+          "end_time": 13.263250000000001,
+          "duration": 4.671333333333335,
+          "n_frames": 57
+        }
+      ]
+    }
+  }
+}

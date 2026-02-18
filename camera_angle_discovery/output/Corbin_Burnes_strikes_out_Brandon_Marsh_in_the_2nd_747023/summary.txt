@@ -1,0 +1,23 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Corbin_Burnes_strikes_out_Brandon_Marsh_in_the_2nd_747023
+Total Angles Discovered: 2
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 1
+  Total Duration: 0.92s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.92s)
+
+Angle 3:
+  Segments: 3
+  Total Duration: 4.59s
+  Segment Files:
+    - angle_3/segment_001.mp4 (2.17s)
+    - angle_3/segment_002.mp4 (1.67s)
+    - angle_3/segment_003.mp4 (0.75s)

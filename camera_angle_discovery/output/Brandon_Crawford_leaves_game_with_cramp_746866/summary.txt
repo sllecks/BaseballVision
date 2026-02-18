@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Brandon_Crawford_leaves_game_with_cramp_746866
+Total Angles Discovered: 3
+Total Segments: 7
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 1.92s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.42s)
+    - angle_2/segment_002.mp4 (0.50s)
+
+Angle 3:
+  Segments: 1
+  Total Duration: 1.67s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.67s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 12.01s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.67s)
+    - angle_17/segment_002.mp4 (0.92s)
+    - angle_17/segment_003.mp4 (7.92s)
+    - angle_17/segment_004.mp4 (0.50s)

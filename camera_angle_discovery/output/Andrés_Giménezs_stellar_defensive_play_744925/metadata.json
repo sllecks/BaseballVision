@@ -1,0 +1,84 @@
+{
+  "video_name": "Andr\u00e9s_Gim\u00e9nezs_stellar_defensive_play_744925",
+  "n_angles": 2,
+  "total_segments": 9,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 5,
+      "total_duration": 9.342666666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.5015,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.1698333333333335,
+          "end_time": 4.5045,
+          "duration": 1.3346666666666667,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 4.671333333333333,
+          "end_time": 8.925583333333334,
+          "duration": 4.254250000000001,
+          "n_frames": 52
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 10.093416666666666,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 22.105416666666667,
+          "end_time": 23.440083333333334,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 16.099416666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.5849166666666668,
+          "end_time": 3.0864166666666666,
+          "duration": 1.5014999999999998,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 10.176833333333333,
+          "end_time": 16.599916666666665,
+          "duration": 6.423083333333333,
+          "n_frames": 78
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 16.850166666666667,
+          "end_time": 22.022000000000002,
+          "duration": 5.1718333333333355,
+          "n_frames": 63
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 23.523500000000002,
+          "end_time": 26.526500000000002,
+          "duration": 3.003,
+          "n_frames": 37
+        }
+      ]
+    }
+  }
+}

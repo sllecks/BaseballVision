@@ -1,0 +1,49 @@
+{
+  "video_name": "Brayan_Rocchio_starts_inning-ending_double_play_744925",
+  "n_angles": 2,
+  "total_segments": 4,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 12.262249999999998,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 6.75675,
+          "duration": 6.75675,
+          "n_frames": 82
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 7.1738333333333335,
+          "end_time": 10.927583333333333,
+          "duration": 3.7537499999999993,
+          "n_frames": 46
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 11.177833333333334,
+          "end_time": 12.929583333333333,
+          "duration": 1.7517499999999995,
+          "n_frames": 22
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 3.2532499999999995,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 13.013,
+          "end_time": 16.26625,
+          "duration": 3.2532499999999995,
+          "n_frames": 40
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Billy_Williams_sings_Take_Me_Out_to_the_Ball_Game_746865
+Total Angles Discovered: 3
+Total Segments: 26
+
+Angle Details:
+--------------------------------------------------
+
+Angle 16:
+  Segments: 5
+  Total Duration: 11.93s
+  Segment Files:
+    - angle_16/segment_001.mp4 (0.67s)
+    - angle_16/segment_002.mp4 (1.50s)
+    - angle_16/segment_003.mp4 (5.92s)
+    - angle_16/segment_004.mp4 (3.17s)
+    - angle_16/segment_005.mp4 (0.67s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.75s)
+    - angle_17/segment_002.mp4 (1.58s)
+    - angle_17/segment_003.mp4 (0.58s)
+
+Angle 19:
+  Segments: 18
+  Total Duration: 54.72s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.67s)
+    - angle_19/segment_002.mp4 (5.34s)
+    - angle_19/segment_003.mp4 (1.17s)
+    - angle_19/segment_004.mp4 (25.36s)
+    - angle_19/segment_005.mp4 (2.25s)
+    - angle_19/segment_006.mp4 (0.58s)
+    - angle_19/segment_007.mp4 (0.75s)
+    - angle_19/segment_008.mp4 (3.42s)
+    - angle_19/segment_009.mp4 (2.92s)
+    - angle_19/segment_010.mp4 (1.33s)
+    - angle_19/segment_011.mp4 (1.42s)
+    - angle_19/segment_012.mp4 (0.50s)
+    - angle_19/segment_013.mp4 (1.17s)
+    - angle_19/segment_014.mp4 (1.08s)
+    - angle_19/segment_015.mp4 (5.17s)
+    - angle_19/segment_016.mp4 (0.50s)
+    - angle_19/segment_017.mp4 (0.58s)
+    - angle_19/segment_018.mp4 (0.50s)

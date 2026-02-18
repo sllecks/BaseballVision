@@ -1,0 +1,15 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Bench_availability_for_Philadelphia_June_16_vs_Ori_747023
+Total Angles Discovered: 1
+Total Segments: 1
+
+Angle Details:
+--------------------------------------------------
+
+Angle 17:
+  Segments: 1
+  Total Duration: 7.90s
+  Segment Files:
+    - angle_17/segment_001.mp4 (7.90s)

@@ -1,0 +1,23 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Gunnar_Hendersons_home_run_through_bat_tracking_da_747023
+Total Angles Discovered: 2
+Total Segments: 4
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 6.90s
+  Segment Files:
+    - angle_3/segment_001.mp4 (3.00s)
+    - angle_3/segment_002.mp4 (1.50s)
+    - angle_3/segment_003.mp4 (2.40s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 3.60s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.60s)

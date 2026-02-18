@@ -1,0 +1,140 @@
+{
+  "video_name": "Brandon_Hyde_on_Orioles_6-2_win_Grayson_Rodriguez_747024",
+  "n_angles": 4,
+  "total_segments": 15,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 9,
+      "total_duration": 43.96058333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.4200833333333334,
+          "duration": 3.4200833333333334,
+          "n_frames": 42
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.75375,
+          "end_time": 14.180833333333334,
+          "duration": 10.427083333333334,
+          "n_frames": 126
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 19.26925,
+          "end_time": 22.689333333333334,
+          "duration": 3.4200833333333343,
+          "n_frames": 42
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 26.77675,
+          "end_time": 39.62291666666667,
+          "duration": 12.846166666666669,
+          "n_frames": 155
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 39.87316666666667,
+          "end_time": 41.041000000000004,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 42.042,
+          "end_time": 44.711333333333336,
+          "duration": 2.6693333333333342,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 45.79575,
+          "end_time": 49.382666666666665,
+          "duration": 3.586916666666667,
+          "n_frames": 44
+        },
+        {
+          "filename": "angle_17/segment_008.mp4",
+          "start_time": 56.473083333333335,
+          "end_time": 62.062,
+          "duration": 5.5889166666666625,
+          "n_frames": 68
+        },
+        {
+          "filename": "angle_17/segment_009.mp4",
+          "start_time": 62.39566666666667,
+          "end_time": 63.22983333333333,
+          "duration": 0.8341666666666612,
+          "n_frames": 11
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 13.680333333333339,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 14.681333333333333,
+          "end_time": 19.185833333333335,
+          "duration": 4.504500000000002,
+          "n_frames": 55
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 22.856166666666667,
+          "end_time": 26.693333333333335,
+          "duration": 3.8371666666666684,
+          "n_frames": 47
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 50.13341666666667,
+          "end_time": 50.717333333333336,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 51.63491666666667,
+          "end_time": 56.38966666666667,
+          "duration": 4.754750000000001,
+          "n_frames": 58
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 0.7507499999999965,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 41.12441666666667,
+          "end_time": 41.875166666666665,
+          "duration": 0.7507499999999965,
+          "n_frames": 10
+        }
+      ]
+    },
+    "16": {
+      "angle_id": 16,
+      "n_segments": 1,
+      "total_duration": 0.5839166666666671,
+      "segments": [
+        {
+          "filename": "angle_16/segment_001.mp4",
+          "start_time": 45.128416666666666,
+          "end_time": 45.71233333333333,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    }
+  }
+}

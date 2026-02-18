@@ -1,0 +1,40 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Logan_OHoppes_467-foot_1101_mph_home_run_745329
+Total Angles Discovered: 4
+Total Segments: 11
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.17s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.67s)
+    - angle_2/segment_002.mp4 (1.50s)
+
+Angle 10:
+  Segments: 3
+  Total Duration: 3.75s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.08s)
+    - angle_10/segment_002.mp4 (0.67s)
+    - angle_10/segment_003.mp4 (2.00s)
+
+Angle 11:
+  Segments: 1
+  Total Duration: 0.58s
+  Segment Files:
+    - angle_11/segment_001.mp4 (0.58s)
+
+Angle 17:
+  Segments: 5
+  Total Duration: 25.44s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.58s)
+    - angle_17/segment_002.mp4 (2.50s)
+    - angle_17/segment_003.mp4 (9.59s)
+    - angle_17/segment_004.mp4 (4.25s)
+    - angle_17/segment_005.mp4 (7.51s)

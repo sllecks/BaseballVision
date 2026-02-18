@@ -1,0 +1,15 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Breaking_down_Zack_Wheelers_pitches_747023
+Total Angles Discovered: 1
+Total Segments: 1
+
+Angle Details:
+--------------------------------------------------
+
+Angle 17:
+  Segments: 1
+  Total Duration: 3.70s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.70s)

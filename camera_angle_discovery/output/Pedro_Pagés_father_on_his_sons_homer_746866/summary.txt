@@ -1,0 +1,53 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Pedro_Pagés_father_on_his_sons_homer_746866
+Total Angles Discovered: 4
+Total Segments: 24
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.34s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.67s)
+    - angle_2/segment_002.mp4 (1.67s)
+
+Angle 16:
+  Segments: 9
+  Total Duration: 10.18s
+  Segment Files:
+    - angle_16/segment_001.mp4 (0.83s)
+    - angle_16/segment_002.mp4 (0.67s)
+    - angle_16/segment_003.mp4 (1.08s)
+    - angle_16/segment_004.mp4 (2.59s)
+    - angle_16/segment_005.mp4 (2.17s)
+    - angle_16/segment_006.mp4 (0.50s)
+    - angle_16/segment_007.mp4 (0.67s)
+    - angle_16/segment_008.mp4 (0.50s)
+    - angle_16/segment_009.mp4 (1.17s)
+
+Angle 17:
+  Segments: 11
+  Total Duration: 33.70s
+  Segment Files:
+    - angle_17/segment_001.mp4 (6.84s)
+    - angle_17/segment_002.mp4 (0.58s)
+    - angle_17/segment_003.mp4 (0.50s)
+    - angle_17/segment_004.mp4 (2.84s)
+    - angle_17/segment_005.mp4 (8.84s)
+    - angle_17/segment_006.mp4 (2.09s)
+    - angle_17/segment_007.mp4 (2.17s)
+    - angle_17/segment_008.mp4 (5.17s)
+    - angle_17/segment_009.mp4 (2.59s)
+    - angle_17/segment_010.mp4 (1.08s)
+    - angle_17/segment_011.mp4 (1.00s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 1.84s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.33s)
+    - angle_19/segment_002.mp4 (0.50s)

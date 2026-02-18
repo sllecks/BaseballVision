@@ -1,0 +1,91 @@
+{
+  "video_name": "Addison_Bargers_first_career_RBI_744925",
+  "n_angles": 3,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 22.85616666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.919583333333333,
+          "duration": 2.919583333333333,
+          "n_frames": 36
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.2562500000000005,
+          "end_time": 17.851166666666668,
+          "duration": 11.594916666666666,
+          "n_frames": 140
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 21.855166666666666,
+          "end_time": 22.439083333333333,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 23.27325,
+          "end_time": 23.940583333333333,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 25.775750000000002,
+          "end_time": 32.866166666666665,
+          "duration": 7.090416666666663,
+          "n_frames": 86
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 2.0854166666666654,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.003,
+          "end_time": 4.421083333333334,
+          "duration": 1.4180833333333336,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 22.5225,
+          "end_time": 23.189833333333333,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 1.9185833333333377,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 18.852166666666665,
+          "end_time": 19.769750000000002,
+          "duration": 0.9175833333333365,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 20.02,
+          "end_time": 21.021,
+          "duration": 1.0010000000000012,
+          "n_frames": 13
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "video_name": "Heliot_Ramos_RBI_double_745329",
+  "n_angles": 2,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 12.679333333333332,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.41708333333333336,
+          "end_time": 1.9185833333333333,
+          "duration": 1.5015,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.6703333333333332,
+          "end_time": 7.25725,
+          "duration": 3.5869166666666668,
+          "n_frames": 44
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 11.428083333333333,
+          "end_time": 16.099416666666666,
+          "duration": 4.671333333333333,
+          "n_frames": 57
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 25.025000000000002,
+          "end_time": 27.944583333333334,
+          "duration": 2.919583333333332,
+          "n_frames": 36
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 10.093416666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.4190833333333335,
+          "end_time": 3.5869166666666668,
+          "duration": 1.1678333333333333,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 8.758750000000001,
+          "end_time": 11.344666666666667,
+          "duration": 2.585916666666666,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 16.182833333333335,
+          "end_time": 19.936583333333335,
+          "duration": 3.75375,
+          "n_frames": 46
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 22.355666666666668,
+          "end_time": 24.941583333333334,
+          "duration": 2.585916666666666,
+          "n_frames": 32
+        }
+      ]
+    }
+  }
+}

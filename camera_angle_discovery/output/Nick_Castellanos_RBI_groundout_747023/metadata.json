@@ -1,0 +1,84 @@
+{
+  "video_name": "Nick_Castellanos_RBI_groundout_747023",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 3.5035000000000003,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.003,
+          "duration": 3.003,
+          "n_frames": 37
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 3.6703333333333332,
+          "end_time": 4.170833333333333,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 5.755749999999999,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.25425,
+          "end_time": 6.172833333333333,
+          "duration": 1.9185833333333333,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.5065,
+          "end_time": 7.424083333333334,
+          "duration": 0.9175833333333339,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 9.843166666666667,
+          "end_time": 11.428083333333333,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 14.180833333333334,
+          "end_time": 15.5155,
+          "duration": 1.3346666666666653,
+          "n_frames": 17
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 3.5035000000000007,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 7.5075,
+          "end_time": 9.75975,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 11.5115,
+          "end_time": 12.76275,
+          "duration": 1.2512500000000006,
+          "n_frames": 16
+        }
+      ]
+    }
+  }
+}

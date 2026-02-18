@@ -1,0 +1,91 @@
+{
+  "video_name": "Ildemaro_Vargas_RBI_double_744839",
+  "n_angles": 4,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 17.767749999999996,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.5005000000000001,
+          "duration": 0.5005000000000001,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 6.4230833333333335,
+          "end_time": 17.934583333333332,
+          "duration": 11.511499999999998,
+          "n_frames": 139
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.435083333333335,
+          "end_time": 21.77175,
+          "duration": 3.336666666666666,
+          "n_frames": 41
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 24.024,
+          "end_time": 26.443083333333334,
+          "duration": 2.419083333333333,
+          "n_frames": 30
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 3.6703333333333332,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.5839166666666666,
+          "end_time": 4.25425,
+          "duration": 3.6703333333333332,
+          "n_frames": 45
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 1.0009999999999994,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 4.838166666666667,
+          "end_time": 5.839166666666666,
+          "duration": 1.0009999999999994,
+          "n_frames": 13
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 2,
+      "total_duration": 1.6683333333333366,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 21.855166666666666,
+          "end_time": 22.689333333333334,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_19/segment_002.mp4",
+          "start_time": 23.023,
+          "end_time": 23.857166666666668,
+          "duration": 0.8341666666666683,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "video_name": "Cody_Bellinger_scores_on_error_746865",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 6.089416666666667,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.16683333333333333,
+          "end_time": 2.6693333333333333,
+          "duration": 2.5025,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.170833333333333,
+          "end_time": 5.5055000000000005,
+          "duration": 1.3346666666666671,
+          "n_frames": 17
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 5.6723333333333334,
+          "end_time": 7.9245833333333335,
+          "duration": 2.25225,
+          "n_frames": 28
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 14.180833333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 8.008000000000001,
+          "end_time": 10.093416666666666,
+          "duration": 2.0854166666666654,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.428083333333333,
+          "end_time": 13.263250000000001,
+          "duration": 1.8351666666666677,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 13.430083333333334,
+          "end_time": 17.934583333333332,
+          "duration": 4.504499999999998,
+          "n_frames": 55
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 20.937583333333333,
+          "end_time": 26.693333333333335,
+          "duration": 5.755750000000003,
+          "n_frames": 70
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 2.7527500000000025,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 18.101416666666665,
+          "end_time": 20.854166666666668,
+          "duration": 2.7527500000000025,
+          "n_frames": 34
+        }
+      ]
+    }
+  }
+}

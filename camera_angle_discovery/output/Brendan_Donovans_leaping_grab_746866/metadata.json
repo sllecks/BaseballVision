@@ -1,0 +1,77 @@
+{
+  "video_name": "Brendan_Donovans_leaping_grab_746866",
+  "n_angles": 3,
+  "total_segments": 7,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 10.5105,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.33366666666666667,
+          "end_time": 1.3346666666666667,
+          "duration": 1.001,
+          "n_frames": 13
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.5869166666666668,
+          "end_time": 4.337666666666666,
+          "duration": 0.7507499999999996,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 4.587916666666667,
+          "end_time": 6.339666666666667,
+          "duration": 1.7517500000000004,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 7.090416666666667,
+          "end_time": 14.097416666666668,
+          "duration": 7.007000000000001,
+          "n_frames": 85
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 1.0844166666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 2.5025,
+          "duration": 0.5004999999999997,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 6.4230833333333335,
+          "end_time": 7.007000000000001,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 0.834166666666667,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 2.6693333333333333,
+          "end_time": 3.5035000000000003,
+          "duration": 0.834166666666667,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

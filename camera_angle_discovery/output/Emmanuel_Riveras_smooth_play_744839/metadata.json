@@ -1,0 +1,70 @@
+{
+  "video_name": "Emmanuel_Riveras_smooth_play_744839",
+  "n_angles": 4,
+  "total_segments": 5,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.25125,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.25125,
+          "duration": 1.25125,
+          "n_frames": 16
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 0.9175833333333334,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 2.168833333333333,
+          "end_time": 3.0864166666666666,
+          "duration": 0.9175833333333334,
+          "n_frames": 12
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 3.1698333333333335,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.25325,
+          "end_time": 3.8371666666666666,
+          "duration": 0.5839166666666666,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 5.005,
+          "end_time": 7.590916666666667,
+          "duration": 2.585916666666667,
+          "n_frames": 32
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 4.170833333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 7.674333333333333,
+          "end_time": 11.845166666666668,
+          "duration": 4.170833333333334,
+          "n_frames": 51
+        }
+      ]
+    }
+  }
+}

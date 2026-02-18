@@ -1,0 +1,119 @@
+{
+  "video_name": "Geraldo_Perdomos_walk-off_sacrifice_fly_747175",
+  "n_angles": 4,
+  "total_segments": 12,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 4,
+      "total_duration": 6.589916666666666,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.4200833333333334,
+          "duration": 3.4200833333333334,
+          "n_frames": 42
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.170833333333333,
+          "end_time": 4.838166666666667,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 11.761750000000001,
+          "end_time": 13.680333333333333,
+          "duration": 1.9185833333333324,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 20.437083333333334,
+          "end_time": 21.021,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 2,
+      "total_duration": 2.3356666666666683,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 5.005,
+          "end_time": 6.2562500000000005,
+          "duration": 1.2512500000000006,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_9/segment_002.mp4",
+          "start_time": 14.931583333333334,
+          "end_time": 16.016000000000002,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 2,
+      "total_duration": 1.7517500000000013,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 7.75775,
+          "end_time": 8.425083333333333,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_10/segment_002.mp4",
+          "start_time": 13.76375,
+          "end_time": 14.848166666666668,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 15.515500000000001,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 9.009,
+          "end_time": 11.678333333333333,
+          "duration": 2.6693333333333324,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 16.182833333333335,
+          "end_time": 20.353666666666665,
+          "duration": 4.170833333333331,
+          "n_frames": 51
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 21.104416666666665,
+          "end_time": 26.860166666666668,
+          "duration": 5.755750000000003,
+          "n_frames": 70
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 27.110416666666666,
+          "end_time": 30.03,
+          "duration": 2.9195833333333354,
+          "n_frames": 36
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Starting_lineups_for_Phillies_at_Orioles_-_June_16_747023
+Total Angles Discovered: 2
+Total Segments: 2
+
+Angle Details:
+--------------------------------------------------
+
+Angle 16:
+  Segments: 1
+  Total Duration: 8.60s
+  Segment Files:
+    - angle_16/segment_001.mp4 (8.60s)
+
+Angle 17:
+  Segments: 1
+  Total Duration: 0.50s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.50s)

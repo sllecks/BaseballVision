@@ -1,0 +1,77 @@
+{
+  "video_name": "Field_View_Ben_Rortvedts_grand_slam_747109",
+  "n_angles": 2,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 24.107416666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.5869166666666668,
+          "duration": 3.5869166666666668,
+          "n_frames": 44
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 4.587916666666667,
+          "end_time": 12.012,
+          "duration": 7.424083333333334,
+          "n_frames": 90
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 14.014000000000001,
+          "end_time": 14.597916666666666,
+          "duration": 0.5839166666666653,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 18.351666666666667,
+          "end_time": 25.942583333333335,
+          "duration": 7.5909166666666685,
+          "n_frames": 92
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 26.359666666666666,
+          "end_time": 28.445083333333333,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 28.778750000000002,
+          "end_time": 31.614916666666666,
+          "duration": 2.8361666666666636,
+          "n_frames": 35
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 2.8361666666666654,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 12.846166666666667,
+          "end_time": 13.930583333333333,
+          "duration": 1.084416666666666,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 14.681333333333333,
+          "end_time": 16.433083333333332,
+          "duration": 1.7517499999999995,
+          "n_frames": 22
+        }
+      ]
+    }
+  }
+}

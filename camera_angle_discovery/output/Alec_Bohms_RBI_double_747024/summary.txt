@@ -1,0 +1,28 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Alec_Bohms_RBI_double_747024
+Total Angles Discovered: 2
+Total Segments: 9
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 4.09s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.92s)
+    - angle_3/segment_002.mp4 (0.83s)
+    - angle_3/segment_003.mp4 (2.34s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 19.85s
+  Segment Files:
+    - angle_17/segment_001.mp4 (4.00s)
+    - angle_17/segment_002.mp4 (2.17s)
+    - angle_17/segment_003.mp4 (0.75s)
+    - angle_17/segment_004.mp4 (0.92s)
+    - angle_17/segment_005.mp4 (5.26s)
+    - angle_17/segment_006.mp4 (6.76s)

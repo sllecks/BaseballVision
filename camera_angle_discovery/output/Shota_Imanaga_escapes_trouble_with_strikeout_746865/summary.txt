@@ -1,0 +1,30 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Shota_Imanaga_escapes_trouble_with_strikeout_746865
+Total Angles Discovered: 3
+Total Segments: 6
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.08s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 16.60s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.83s)
+    - angle_17/segment_002.mp4 (0.75s)
+    - angle_17/segment_003.mp4 (6.59s)
+    - angle_17/segment_004.mp4 (8.43s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 0.92s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.92s)

@@ -1,0 +1,56 @@
+{
+  "video_name": "Andre_Pallante_strikes_out_Ian_Happ_746865",
+  "n_angles": 3,
+  "total_segments": 4,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 2,
+      "total_duration": 3.0864166666666666,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.6673333333333333,
+          "end_time": 2.585916666666667,
+          "duration": 1.9185833333333335,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_2/segment_002.mp4",
+          "start_time": 3.8371666666666666,
+          "end_time": 5.005,
+          "duration": 1.1678333333333333,
+          "n_frames": 15
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 1.0844166666666668,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.6693333333333333,
+          "end_time": 3.75375,
+          "duration": 1.0844166666666668,
+          "n_frames": 14
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333336,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 5.588916666666667,
+          "end_time": 6.2562500000000005,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        }
+      ]
+    }
+  }
+}

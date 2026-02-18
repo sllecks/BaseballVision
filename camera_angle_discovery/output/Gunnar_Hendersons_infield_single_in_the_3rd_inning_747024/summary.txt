@@ -1,0 +1,25 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Gunnar_Hendersons_infield_single_in_the_3rd_inning_747024
+Total Angles Discovered: 2
+Total Segments: 6
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 8.17s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.00s)
+    - angle_3/segment_002.mp4 (4.09s)
+    - angle_3/segment_003.mp4 (3.09s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 9.59s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.92s)
+    - angle_17/segment_002.mp4 (2.17s)
+    - angle_17/segment_003.mp4 (5.51s)

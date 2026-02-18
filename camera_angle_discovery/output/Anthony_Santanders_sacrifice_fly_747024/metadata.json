@@ -1,0 +1,91 @@
+{
+  "video_name": "Anthony_Santanders_sacrifice_fly_747024",
+  "n_angles": 3,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 8.5085,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.25225,
+          "duration": 2.25225,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.6703333333333332,
+          "end_time": 5.588916666666667,
+          "duration": 1.9185833333333338,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 6.4230833333333335,
+          "end_time": 8.675333333333333,
+          "duration": 2.252249999999999,
+          "n_frames": 28
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 18.601916666666668,
+          "end_time": 20.687333333333335,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 5.25525,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 2.3356666666666666,
+          "end_time": 3.0864166666666666,
+          "duration": 0.75075,
+          "n_frames": 10
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 5.6723333333333334,
+          "end_time": 6.339666666666667,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 8.758750000000001,
+          "end_time": 12.595916666666668,
+          "duration": 3.8371666666666666,
+          "n_frames": 47
+        }
+      ]
+    },
+    "16": {
+      "angle_id": 16,
+      "n_segments": 2,
+      "total_duration": 4.671333333333333,
+      "segments": [
+        {
+          "filename": "angle_16/segment_001.mp4",
+          "start_time": 13.013,
+          "end_time": 14.597916666666666,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_16/segment_002.mp4",
+          "start_time": 14.931583333333334,
+          "end_time": 18.018,
+          "duration": 3.0864166666666666,
+          "n_frames": 38
+        }
+      ]
+    }
+  }
+}

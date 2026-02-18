@@ -1,0 +1,63 @@
+{
+  "video_name": "An_animated_look_at_Colton_Cowsers_home_run_747023",
+  "n_angles": 2,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 5.3999999999999995,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.0,
+          "duration": 3.0,
+          "n_frames": 31
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.8,
+          "end_time": 5.6,
+          "duration": 1.7999999999999998,
+          "n_frames": 19
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 7.5,
+          "end_time": 8.1,
+          "duration": 0.5999999999999996,
+          "n_frames": 7
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 5.600000000000001,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 3.1,
+          "end_time": 3.7,
+          "duration": 0.6000000000000001,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 5.7,
+          "end_time": 7.4,
+          "duration": 1.7000000000000002,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 8.2,
+          "end_time": 11.5,
+          "duration": 3.3000000000000007,
+          "n_frames": 34
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "video_name": "Dansby_Swansons_RBI_groundout_746865",
+  "n_angles": 2,
+  "total_segments": 5,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 2,
+      "total_duration": 7.007000000000001,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 0.5005000000000001,
+          "duration": 0.5005000000000001,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 9.843166666666667,
+          "end_time": 16.349666666666668,
+          "duration": 6.506500000000001,
+          "n_frames": 79
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 8.591916666666668,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.5839166666666666,
+          "end_time": 4.0040000000000004,
+          "duration": 3.420083333333334,
+          "n_frames": 42
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.25425,
+          "end_time": 6.923583333333333,
+          "duration": 2.6693333333333333,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 7.25725,
+          "end_time": 9.75975,
+          "duration": 2.5025000000000004,
+          "n_frames": 31
+        }
+      ]
+    }
+  }
+}

@@ -6,16 +6,21 @@ and optionally runs YOLO inference on them.
 
 import argparse
 import requests
+import sys
 from pathlib import Path
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 
-# Import predict function from main.py
-from main import predict, BASE_DIR
+# Import predict function from main.py in object recognition folder
+SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent
+OBJECT_RECOGNITION_DIR = PROJECT_ROOT / "object recognition"
+sys.path.insert(0, str(OBJECT_RECOGNITION_DIR))
+from main import predict, BASE_DIR as OR_BASE_DIR
 
 # Configuration
 MLB_STATS_API_BASE = "https://statsapi.mlb.com/api/v1"
-VIDEOS_DIR = BASE_DIR / "videos"
+VIDEOS_DIR = SCRIPT_DIR / "videos"
 VIDEOS_DIR.mkdir(exist_ok=True)
 
 
@@ -393,7 +398,7 @@ Examples:
     if downloaded:
         print(f"\n📁 Clips saved to: {output_dir}")
         if args.inference:
-            print(f"🎯 Inference results saved to: {BASE_DIR / 'runs' / 'predictions'}")
+            print(f"🎯 Inference results saved to: {OR_BASE_DIR / 'runs' / 'predictions'}")
 
 
 if __name__ == "__main__":

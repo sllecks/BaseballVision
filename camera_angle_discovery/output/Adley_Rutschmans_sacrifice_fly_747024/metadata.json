@@ -1,0 +1,105 @@
+{
+  "video_name": "Adley_Rutschmans_sacrifice_fly_747024",
+  "n_angles": 3,
+  "total_segments": 11,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 5,
+      "total_duration": 12.262249999999998,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 3.25325,
+          "duration": 3.25325,
+          "n_frames": 40
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 3.5035000000000003,
+          "end_time": 4.087416666666667,
+          "duration": 0.5839166666666666,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 8.675333333333333,
+          "end_time": 9.843166666666667,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 10.593916666666667,
+          "end_time": 12.429083333333333,
+          "duration": 1.835166666666666,
+          "n_frames": 23
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 14.180833333333334,
+          "end_time": 19.602916666666665,
+          "duration": 5.422083333333331,
+          "n_frames": 66
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 4,
+      "total_duration": 10.093416666666666,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.838166666666667,
+          "end_time": 8.591916666666666,
+          "duration": 3.7537499999999993,
+          "n_frames": 46
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 12.512500000000001,
+          "end_time": 14.097416666666668,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 21.938583333333334,
+          "end_time": 23.857166666666668,
+          "duration": 1.9185833333333342,
+          "n_frames": 24
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 24.941583333333334,
+          "end_time": 27.77775,
+          "duration": 2.836166666666667,
+          "n_frames": 35
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 2,
+      "total_duration": 2.168833333333332,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 19.686333333333334,
+          "end_time": 20.937583333333333,
+          "duration": 1.2512499999999989,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_19/segment_002.mp4",
+          "start_time": 23.940583333333333,
+          "end_time": 24.858166666666666,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    }
+  }
+}

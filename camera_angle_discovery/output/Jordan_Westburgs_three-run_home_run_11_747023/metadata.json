@@ -1,0 +1,84 @@
+{
+  "video_name": "Jordan_Westburgs_three-run_home_run_11_747023",
+  "n_angles": 4,
+  "total_segments": 7,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 2.7527500000000003,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.7527500000000003,
+          "duration": 2.7527500000000003,
+          "n_frames": 34
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.1678333333333337,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 3.5869166666666668,
+          "end_time": 4.7547500000000005,
+          "duration": 1.1678333333333337,
+          "n_frames": 15
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 19.93658333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 5.25525,
+          "end_time": 12.012,
+          "duration": 6.75675,
+          "n_frames": 82
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 12.679333333333334,
+          "end_time": 15.26525,
+          "duration": 2.585916666666666,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 18.018,
+          "end_time": 28.611916666666666,
+          "duration": 10.593916666666665,
+          "n_frames": 128
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 2,
+      "total_duration": 1.8351666666666642,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 15.682333333333334,
+          "end_time": 16.850166666666667,
+          "duration": 1.1678333333333324,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_19/segment_002.mp4",
+          "start_time": 17.26725,
+          "end_time": 17.934583333333332,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        }
+      ]
+    }
+  }
+}

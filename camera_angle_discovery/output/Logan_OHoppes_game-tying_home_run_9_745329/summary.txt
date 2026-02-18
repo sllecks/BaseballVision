@@ -1,0 +1,39 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Logan_OHoppes_game-tying_home_run_9_745329
+Total Angles Discovered: 4
+Total Segments: 10
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.58s)
+    - angle_2/segment_002.mp4 (1.33s)
+
+Angle 10:
+  Segments: 3
+  Total Duration: 3.09s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.00s)
+    - angle_10/segment_002.mp4 (0.67s)
+    - angle_10/segment_003.mp4 (1.42s)
+
+Angle 11:
+  Segments: 1
+  Total Duration: 1.75s
+  Segment Files:
+    - angle_11/segment_001.mp4 (1.75s)
+
+Angle 17:
+  Segments: 4
+  Total Duration: 17.02s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.34s)
+    - angle_17/segment_002.mp4 (8.09s)
+    - angle_17/segment_003.mp4 (4.09s)
+    - angle_17/segment_004.mp4 (2.50s)

@@ -1,0 +1,21 @@
+{
+  "video_name": "Mitchell_Parker_strikes_out_Jazz_Chisholm_Jr_744839",
+  "n_angles": 1,
+  "total_segments": 1,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 6.172833333333334,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.16683333333333333,
+          "end_time": 6.339666666666667,
+          "duration": 6.172833333333334,
+          "n_frames": 75
+        }
+      ]
+    }
+  }
+}

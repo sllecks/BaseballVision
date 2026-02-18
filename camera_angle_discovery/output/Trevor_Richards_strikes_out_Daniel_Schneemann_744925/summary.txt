@@ -1,0 +1,17 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Trevor_Richards_strikes_out_Daniel_Schneemann_744925
+Total Angles Discovered: 1
+Total Segments: 3
+
+Angle Details:
+--------------------------------------------------
+
+Angle 17:
+  Segments: 3
+  Total Duration: 7.17s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.50s)
+    - angle_17/segment_002.mp4 (1.75s)
+    - angle_17/segment_003.mp4 (2.92s)

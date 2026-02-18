@@ -1,0 +1,27 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Gunnar_Henderson_Home_Run_Statcast_Analysis_747023
+Total Angles Discovered: 3
+Total Segments: 3
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 1
+  Total Duration: 8.40s
+  Segment Files:
+    - angle_3/segment_001.mp4 (8.40s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 1.30s
+  Segment Files:
+    - angle_9/segment_001.mp4 (1.30s)
+
+Angle 18:
+  Segments: 1
+  Total Duration: 0.60s
+  Segment Files:
+    - angle_18/segment_001.mp4 (0.60s)

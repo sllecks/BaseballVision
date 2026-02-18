@@ -1,0 +1,63 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Patrick_Sandovals_five_strikeouts_745329
+Total Angles Discovered: 4
+Total Segments: 34
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 8
+  Total Duration: 10.93s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.08s)
+    - angle_2/segment_002.mp4 (1.92s)
+    - angle_2/segment_003.mp4 (1.92s)
+    - angle_2/segment_004.mp4 (1.75s)
+    - angle_2/segment_005.mp4 (0.50s)
+    - angle_2/segment_006.mp4 (0.75s)
+    - angle_2/segment_007.mp4 (1.08s)
+    - angle_2/segment_008.mp4 (1.92s)
+
+Angle 3:
+  Segments: 6
+  Total Duration: 4.34s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.50s)
+    - angle_3/segment_002.mp4 (0.92s)
+    - angle_3/segment_003.mp4 (0.50s)
+    - angle_3/segment_004.mp4 (0.83s)
+    - angle_3/segment_005.mp4 (1.08s)
+    - angle_3/segment_006.mp4 (0.50s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 1.25s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.75s)
+    - angle_9/segment_002.mp4 (0.50s)
+
+Angle 17:
+  Segments: 18
+  Total Duration: 38.79s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.58s)
+    - angle_17/segment_002.mp4 (0.83s)
+    - angle_17/segment_003.mp4 (0.67s)
+    - angle_17/segment_004.mp4 (0.92s)
+    - angle_17/segment_005.mp4 (1.84s)
+    - angle_17/segment_006.mp4 (2.00s)
+    - angle_17/segment_007.mp4 (0.50s)
+    - angle_17/segment_008.mp4 (0.92s)
+    - angle_17/segment_009.mp4 (4.92s)
+    - angle_17/segment_010.mp4 (1.33s)
+    - angle_17/segment_011.mp4 (0.58s)
+    - angle_17/segment_012.mp4 (2.42s)
+    - angle_17/segment_013.mp4 (3.09s)
+    - angle_17/segment_014.mp4 (2.34s)
+    - angle_17/segment_015.mp4 (0.58s)
+    - angle_17/segment_016.mp4 (2.84s)
+    - angle_17/segment_017.mp4 (1.25s)
+    - angle_17/segment_018.mp4 (11.18s)

@@ -1,0 +1,59 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Anthony_Santanders_multi-homer_game_vs_the_Phillie_747024
+Total Angles Discovered: 6
+Total Segments: 20
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 4
+  Total Duration: 4.25s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.58s)
+    - angle_3/segment_002.mp4 (1.42s)
+    - angle_3/segment_003.mp4 (1.33s)
+    - angle_3/segment_004.mp4 (0.92s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 2.42s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.92s)
+    - angle_9/segment_002.mp4 (1.50s)
+
+Angle 10:
+  Segments: 2
+  Total Duration: 3.50s
+  Segment Files:
+    - angle_10/segment_001.mp4 (1.17s)
+    - angle_10/segment_002.mp4 (2.34s)
+
+Angle 12:
+  Segments: 1
+  Total Duration: 1.25s
+  Segment Files:
+    - angle_12/segment_001.mp4 (1.25s)
+
+Angle 17:
+  Segments: 9
+  Total Duration: 36.20s
+  Segment Files:
+    - angle_17/segment_001.mp4 (1.92s)
+    - angle_17/segment_002.mp4 (6.34s)
+    - angle_17/segment_003.mp4 (1.17s)
+    - angle_17/segment_004.mp4 (2.84s)
+    - angle_17/segment_005.mp4 (0.83s)
+    - angle_17/segment_006.mp4 (7.84s)
+    - angle_17/segment_007.mp4 (1.00s)
+    - angle_17/segment_008.mp4 (4.09s)
+    - angle_17/segment_009.mp4 (10.18s)
+
+Angle 19:
+  Segments: 2
+  Total Duration: 1.50s
+  Segment Files:
+    - angle_19/segment_001.mp4 (0.75s)
+    - angle_19/segment_002.mp4 (0.75s)

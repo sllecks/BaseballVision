@@ -1,0 +1,126 @@
+{
+  "video_name": "Edmundo_Sosas_solo_home_run_5_747024",
+  "n_angles": 5,
+  "total_segments": 12,
+  "angles": {
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.5839166666666666,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 0.08341666666666667,
+          "end_time": 0.6673333333333333,
+          "duration": 0.5839166666666666,
+          "n_frames": 8
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 1.1678333333333333,
+          "end_time": 1.9185833333333333,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 5,
+      "total_duration": 19.853166666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 2.0020000000000002,
+          "end_time": 2.919583333333333,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 3.1698333333333335,
+          "end_time": 4.7547500000000005,
+          "duration": 1.584916666666667,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.839166666666666,
+          "end_time": 7.5075,
+          "duration": 1.668333333333334,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 10.01,
+          "end_time": 15.682333333333334,
+          "duration": 5.672333333333334,
+          "n_frames": 69
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 17.517500000000002,
+          "end_time": 27.5275,
+          "duration": 10.009999999999998,
+          "n_frames": 121
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 4,
+      "total_duration": 3.503499999999997,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 4.838166666666667,
+          "end_time": 5.75575,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_10/segment_002.mp4",
+          "start_time": 7.674333333333333,
+          "end_time": 8.758750000000001,
+          "duration": 1.0844166666666677,
+          "n_frames": 14
+        },
+        {
+          "filename": "angle_10/segment_003.mp4",
+          "start_time": 15.76575,
+          "end_time": 16.599916666666665,
+          "duration": 0.8341666666666647,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_10/segment_004.mp4",
+          "start_time": 16.766750000000002,
+          "end_time": 17.434083333333334,
+          "duration": 0.6673333333333318,
+          "n_frames": 9
+        }
+      ]
+    },
+    "19": {
+      "angle_id": 19,
+      "n_segments": 1,
+      "total_duration": 0.75075,
+      "segments": [
+        {
+          "filename": "angle_19/segment_001.mp4",
+          "start_time": 9.175833333333333,
+          "end_time": 9.926583333333333,
+          "duration": 0.75075,
+          "n_frames": 10
+        }
+      ]
+    }
+  }
+}

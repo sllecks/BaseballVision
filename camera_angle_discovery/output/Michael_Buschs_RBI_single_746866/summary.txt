@@ -1,0 +1,30 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Michael_Buschs_RBI_single_746866
+Total Angles Discovered: 3
+Total Segments: 6
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 2.17s
+  Segment Files:
+    - angle_2/segment_001.mp4 (1.50s)
+    - angle_2/segment_002.mp4 (0.67s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 0.92s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.92s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 13.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (8.26s)
+    - angle_17/segment_002.mp4 (3.67s)
+    - angle_17/segment_003.mp4 (1.84s)

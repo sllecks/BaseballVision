@@ -1,0 +1,50 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Oliver_Marmol_on_Pedro_Pagés_homer_Miles_Mikolas_746866
+Total Angles Discovered: 5
+Total Segments: 16
+
+Angle Details:
+--------------------------------------------------
+
+Angle 2:
+  Segments: 2
+  Total Duration: 1.84s
+  Segment Files:
+    - angle_2/segment_001.mp4 (0.67s)
+    - angle_2/segment_002.mp4 (1.17s)
+
+Angle 3:
+  Segments: 2
+  Total Duration: 2.34s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.75s)
+    - angle_3/segment_002.mp4 (0.58s)
+
+Angle 9:
+  Segments: 2
+  Total Duration: 1.17s
+  Segment Files:
+    - angle_9/segment_001.mp4 (0.67s)
+    - angle_9/segment_002.mp4 (0.50s)
+
+Angle 17:
+  Segments: 9
+  Total Duration: 57.56s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.09s)
+    - angle_17/segment_002.mp4 (6.76s)
+    - angle_17/segment_003.mp4 (3.17s)
+    - angle_17/segment_004.mp4 (2.50s)
+    - angle_17/segment_005.mp4 (7.17s)
+    - angle_17/segment_006.mp4 (1.08s)
+    - angle_17/segment_007.mp4 (3.75s)
+    - angle_17/segment_008.mp4 (23.27s)
+    - angle_17/segment_009.mp4 (7.76s)
+
+Angle 19:
+  Segments: 1
+  Total Duration: 1.08s
+  Segment Files:
+    - angle_19/segment_001.mp4 (1.08s)

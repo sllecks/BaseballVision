@@ -1,0 +1,84 @@
+{
+  "video_name": "Taijuan_Walker_snags_a_line_drive_747024",
+  "n_angles": 2,
+  "total_segments": 9,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 7,
+      "total_duration": 10.927583333333333,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.0010000000000001,
+          "end_time": 1.6683333333333334,
+          "duration": 0.6673333333333333,
+          "n_frames": 9
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 2.0854166666666667,
+          "end_time": 3.75375,
+          "duration": 1.6683333333333334,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 5.5055000000000005,
+          "end_time": 6.089416666666667,
+          "duration": 0.5839166666666662,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 7.1738333333333335,
+          "end_time": 8.425083333333333,
+          "duration": 1.2512499999999998,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 8.925583333333334,
+          "end_time": 9.843166666666667,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 11.011000000000001,
+          "end_time": 15.598916666666668,
+          "duration": 4.587916666666667,
+          "n_frames": 56
+        },
+        {
+          "filename": "angle_17/segment_007.mp4",
+          "start_time": 15.849166666666667,
+          "end_time": 17.100416666666668,
+          "duration": 1.2512500000000006,
+          "n_frames": 16
+        }
+      ]
+    },
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 2.419083333333333,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 3.8371666666666666,
+          "end_time": 5.422083333333333,
+          "duration": 1.5849166666666665,
+          "n_frames": 20
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 9.926583333333333,
+          "end_time": 10.76075,
+          "duration": 0.8341666666666665,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Vladimir_Guerrero_Jrs_sac_fly_747175
+Total Angles Discovered: 4
+Total Segments: 8
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 3
+  Total Duration: 2.92s
+  Segment Files:
+    - angle_3/segment_001.mp4 (0.75s)
+    - angle_3/segment_002.mp4 (0.75s)
+    - angle_3/segment_003.mp4 (1.42s)
+
+Angle 9:
+  Segments: 1
+  Total Duration: 3.34s
+  Segment Files:
+    - angle_9/segment_001.mp4 (3.34s)
+
+Angle 10:
+  Segments: 1
+  Total Duration: 0.67s
+  Segment Files:
+    - angle_10/segment_001.mp4 (0.67s)
+
+Angle 17:
+  Segments: 3
+  Total Duration: 5.17s
+  Segment Files:
+    - angle_17/segment_001.mp4 (0.50s)
+    - angle_17/segment_002.mp4 (1.33s)
+    - angle_17/segment_003.mp4 (3.34s)

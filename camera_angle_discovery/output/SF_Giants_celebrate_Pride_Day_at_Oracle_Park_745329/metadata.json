@@ -1,0 +1,84 @@
+{
+  "video_name": "SF_Giants_celebrate_Pride_Day_at_Oracle_Park_745329",
+  "n_angles": 3,
+  "total_segments": 8,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 12.59591666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 2.6693333333333333,
+          "duration": 2.6693333333333333,
+          "n_frames": 33
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 5.088416666666666,
+          "end_time": 8.758750000000001,
+          "duration": 3.6703333333333346,
+          "n_frames": 45
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 15.348666666666666,
+          "end_time": 17.684333333333335,
+          "duration": 2.3356666666666683,
+          "n_frames": 29
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 17.934583333333332,
+          "end_time": 19.602916666666665,
+          "duration": 1.668333333333333,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 20.186833333333333,
+          "end_time": 21.855166666666666,
+          "duration": 1.668333333333333,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 22.105416666666667,
+          "end_time": 22.689333333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        }
+      ]
+    },
+    "18": {
+      "angle_id": 18,
+      "n_segments": 1,
+      "total_duration": 1.75175,
+      "segments": [
+        {
+          "filename": "angle_18/segment_001.mp4",
+          "start_time": 2.8361666666666667,
+          "end_time": 4.587916666666667,
+          "duration": 1.75175,
+          "n_frames": 22
+        }
+      ]
+    },
+    "10": {
+      "angle_id": 10,
+      "n_segments": 1,
+      "total_duration": 0.6673333333333336,
+      "segments": [
+        {
+          "filename": "angle_10/segment_001.mp4",
+          "start_time": 12.595916666666668,
+          "end_time": 13.263250000000001,
+          "duration": 0.6673333333333336,
+          "n_frames": 9
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "video_name": "Lane_Thomas_solo_homer_6_744846",
+  "n_angles": 3,
+  "total_segments": 6,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 2,
+      "total_duration": 3.336666666666665,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 1.7517500000000001,
+          "duration": 1.7517500000000001,
+          "n_frames": 22
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 23.106416666666668,
+          "end_time": 24.691333333333333,
+          "duration": 1.5849166666666648,
+          "n_frames": 20
+        }
+      ]
+    },
+    "9": {
+      "angle_id": 9,
+      "n_segments": 1,
+      "total_duration": 1.1678333333333335,
+      "segments": [
+        {
+          "filename": "angle_9/segment_001.mp4",
+          "start_time": 1.8351666666666666,
+          "end_time": 3.003,
+          "duration": 1.1678333333333335,
+          "n_frames": 15
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 18.935583333333334,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 4.7547500000000005,
+          "end_time": 19.936583333333335,
+          "duration": 15.181833333333334,
+          "n_frames": 183
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 20.186833333333333,
+          "end_time": 23.023,
+          "duration": 2.836166666666667,
+          "n_frames": 35
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 24.77475,
+          "end_time": 25.692333333333334,
+          "duration": 0.917583333333333,
+          "n_frames": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "video_name": "Jazz_Chisholm_Jrs_RBI_single_744839",
+  "n_angles": 2,
+  "total_segments": 12,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 6,
+      "total_duration": 11.761750000000001,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.08341666666666667,
+          "end_time": 1.5015,
+          "duration": 1.4180833333333334,
+          "n_frames": 18
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 1.7517500000000001,
+          "end_time": 6.089416666666667,
+          "duration": 4.337666666666666,
+          "n_frames": 53
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 8.842166666666667,
+          "end_time": 10.927583333333333,
+          "duration": 2.0854166666666654,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_3/segment_004.mp4",
+          "start_time": 13.76375,
+          "end_time": 14.931583333333334,
+          "duration": 1.1678333333333342,
+          "n_frames": 15
+        },
+        {
+          "filename": "angle_3/segment_005.mp4",
+          "start_time": 18.351666666666667,
+          "end_time": 18.935583333333334,
+          "duration": 0.5839166666666671,
+          "n_frames": 8
+        },
+        {
+          "filename": "angle_3/segment_006.mp4",
+          "start_time": 21.104416666666665,
+          "end_time": 23.27325,
+          "duration": 2.1688333333333354,
+          "n_frames": 27
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 6,
+      "total_duration": 11.84516666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 6.172833333333333,
+          "end_time": 8.758750000000001,
+          "duration": 2.5859166666666678,
+          "n_frames": 32
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 11.011000000000001,
+          "end_time": 13.013,
+          "duration": 2.001999999999999,
+          "n_frames": 25
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 15.181833333333334,
+          "end_time": 17.26725,
+          "duration": 2.085416666666667,
+          "n_frames": 26
+        },
+        {
+          "filename": "angle_17/segment_004.mp4",
+          "start_time": 17.76775,
+          "end_time": 18.268250000000002,
+          "duration": 0.5005000000000024,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_005.mp4",
+          "start_time": 19.352666666666668,
+          "end_time": 21.021,
+          "duration": 1.668333333333333,
+          "n_frames": 21
+        },
+        {
+          "filename": "angle_17/segment_006.mp4",
+          "start_time": 23.356666666666666,
+          "end_time": 26.359666666666666,
+          "duration": 3.003,
+          "n_frames": 37
+        }
+      ]
+    }
+  }
+}

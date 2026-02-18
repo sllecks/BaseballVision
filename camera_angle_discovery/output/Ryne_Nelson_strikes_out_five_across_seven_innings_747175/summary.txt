@@ -1,0 +1,35 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Ryne_Nelson_strikes_out_five_across_seven_innings_747175
+Total Angles Discovered: 2
+Total Segments: 16
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 10
+  Total Duration: 19.77s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.58s)
+    - angle_3/segment_002.mp4 (1.00s)
+    - angle_3/segment_003.mp4 (5.09s)
+    - angle_3/segment_004.mp4 (1.08s)
+    - angle_3/segment_005.mp4 (1.33s)
+    - angle_3/segment_006.mp4 (0.92s)
+    - angle_3/segment_007.mp4 (1.50s)
+    - angle_3/segment_008.mp4 (0.50s)
+    - angle_3/segment_009.mp4 (2.34s)
+    - angle_3/segment_010.mp4 (4.42s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 12.76s
+  Segment Files:
+    - angle_17/segment_001.mp4 (3.00s)
+    - angle_17/segment_002.mp4 (1.00s)
+    - angle_17/segment_003.mp4 (1.08s)
+    - angle_17/segment_004.mp4 (2.42s)
+    - angle_17/segment_005.mp4 (1.58s)
+    - angle_17/segment_006.mp4 (3.67s)

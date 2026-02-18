@@ -1,0 +1,35 @@
+{
+  "video_name": "Andrew_Kittredges_clutch_strikeout_746866",
+  "n_angles": 2,
+  "total_segments": 2,
+  "angles": {
+    "17": {
+      "angle_id": 17,
+      "n_segments": 1,
+      "total_duration": 4.25425,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 0.0,
+          "end_time": 4.25425,
+          "duration": 4.25425,
+          "n_frames": 52
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 0.8341666666666674,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 4.671333333333333,
+          "end_time": 5.5055000000000005,
+          "duration": 0.8341666666666674,
+          "n_frames": 11
+        }
+      ]
+    }
+  }
+}

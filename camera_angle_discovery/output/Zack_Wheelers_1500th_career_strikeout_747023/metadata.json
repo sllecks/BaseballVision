@@ -1,0 +1,77 @@
+{
+  "video_name": "Zack_Wheelers_1500th_career_strikeout_747023",
+  "n_angles": 3,
+  "total_segments": 7,
+  "angles": {
+    "3": {
+      "angle_id": 3,
+      "n_segments": 3,
+      "total_duration": 4.838166666666667,
+      "segments": [
+        {
+          "filename": "angle_3/segment_001.mp4",
+          "start_time": 0.33366666666666667,
+          "end_time": 1.1678333333333333,
+          "duration": 0.8341666666666666,
+          "n_frames": 11
+        },
+        {
+          "filename": "angle_3/segment_002.mp4",
+          "start_time": 4.087416666666667,
+          "end_time": 5.338666666666667,
+          "duration": 1.2512499999999998,
+          "n_frames": 16
+        },
+        {
+          "filename": "angle_3/segment_003.mp4",
+          "start_time": 14.764750000000001,
+          "end_time": 17.517500000000002,
+          "duration": 2.7527500000000007,
+          "n_frames": 34
+        }
+      ]
+    },
+    "17": {
+      "angle_id": 17,
+      "n_segments": 3,
+      "total_duration": 9.592916666666667,
+      "segments": [
+        {
+          "filename": "angle_17/segment_001.mp4",
+          "start_time": 1.25125,
+          "end_time": 1.7517500000000001,
+          "duration": 0.5005000000000002,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_002.mp4",
+          "start_time": 5.422083333333333,
+          "end_time": 5.922583333333334,
+          "duration": 0.5005000000000006,
+          "n_frames": 7
+        },
+        {
+          "filename": "angle_17/segment_003.mp4",
+          "start_time": 6.089416666666667,
+          "end_time": 14.681333333333333,
+          "duration": 8.591916666666666,
+          "n_frames": 104
+        }
+      ]
+    },
+    "2": {
+      "angle_id": 2,
+      "n_segments": 1,
+      "total_duration": 1.0010000000000003,
+      "segments": [
+        {
+          "filename": "angle_2/segment_001.mp4",
+          "start_time": 2.168833333333333,
+          "end_time": 3.1698333333333335,
+          "duration": 1.0010000000000003,
+          "n_frames": 13
+        }
+      ]
+    }
+  }
+}

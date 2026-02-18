@@ -1,0 +1,31 @@
+Camera Angle Discovery Summary
+==================================================
+
+Video: Jazz_Chisholm_Jrs_RBI_single_744839
+Total Angles Discovered: 2
+Total Segments: 12
+
+Angle Details:
+--------------------------------------------------
+
+Angle 3:
+  Segments: 6
+  Total Duration: 11.76s
+  Segment Files:
+    - angle_3/segment_001.mp4 (1.42s)
+    - angle_3/segment_002.mp4 (4.34s)
+    - angle_3/segment_003.mp4 (2.09s)
+    - angle_3/segment_004.mp4 (1.17s)
+    - angle_3/segment_005.mp4 (0.58s)
+    - angle_3/segment_006.mp4 (2.17s)
+
+Angle 17:
+  Segments: 6
+  Total Duration: 11.85s
+  Segment Files:
+    - angle_17/segment_001.mp4 (2.59s)
+    - angle_17/segment_002.mp4 (2.00s)
+    - angle_17/segment_003.mp4 (2.09s)
+    - angle_17/segment_004.mp4 (0.50s)
+    - angle_17/segment_005.mp4 (1.67s)
+    - angle_17/segment_006.mp4 (3.00s)

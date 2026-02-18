@@ -1,0 +1,31 @@
+# Camera Angle Discovery System Configuration
+
+video:
+  # Can specify direct path or use shared videos directory
+  input_path: null  # null = use shared VIDEOS_DIR, or specify path
+  videos_dir: "../video_downloader/videos"  # Shared videos directory
+  frame_extraction_rate: 10.0  # frames per second to extract (increased for better temporal resolution)
+  min_segment_duration: 0.5   # minimum seconds per segment (reduced to capture quick cuts)
+
+features:
+  model: "clip"  # "clip" or "resnet50"
+  batch_size: 32
+  image_size: 224
+
+clustering:
+  method: "ai_classifier"  # "ai_classifier", "dbscan", "kmeans", "hierarchical", "hybrid"
+  # AI Classifier uses CLIP to classify angles based on text descriptions
+  use_ai_classifier: true  # Use AI classifier instead of clustering
+  angle_descriptions: null  # Custom angle descriptions (null = use improved defaults)
+  confidence_threshold: 0.2  # Minimum confidence for angle classification (0.0-1.0)
+  clip_model: "openai/clip-vit-base-patch32"  # CLIP model to use (try "openai/clip-vit-large-patch14" for better accuracy)
+  use_hybrid: false  # Use clustering to discover angles, then AI to name them
+  min_samples: 5
+  eps: 0.2  # Lower eps for DBSCAN to find more clusters (if using dbscan)
+  n_clusters: 8  # Number of angles to discover (set to null for auto-detect with kmeans/hierarchical)
+  temporal_window: 3  # Reduced temporal smoothing to preserve quick cuts
+
+output:
+  base_dir: "output"
+  save_frames: false
+  create_visualization: true
